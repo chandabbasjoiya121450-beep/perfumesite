@@ -1,0 +1,29 @@
+# Ignore everything in the user directory by default
+/*
+
+# Whitelist VELORÉ Luxury Fragrance Project files & folders
+!/app/
+!/components/
+!/context/
+!/data/
+!/lib/
+!/public/
+!/scripts/
+!/styles/
+!/package.json
+!/package-lock.json
+!/next.config.mjs
+!/tailwind.config.ts
+!/tsconfig.json
+!/postcss.config.mjs
+!/.env.example
+!/.gitignore
+!/README.md
+
+# Never commit dependencies, build artifacts, or runtime logs
+node_modules/
+.next/
+.turbo/
+*.tsbuildinfo
+*.log
+.DS_Store

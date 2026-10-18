@@ -1,0 +1,129 @@
+/**
+ * ============================================================
+ * VELORÉ — Global Design Tokens
+ * ============================================================
+ * Luxury Fragrance E-Commerce Design System Foundation
+ * Centralized Single Source of Truth for Visual Decisions
+ * ============================================================
+ */
+
+:root {
+  /* ─────────────────────────────────────────
+   * 1. CORE BRAND PALETTE
+   * ───────────────────────────────────────── */
+  --color-warm-ivory:     #F8F7F4; /* Primary page background */
+  --color-charcoal-black: #24221F; /* Primary text and important controls */
+  --color-champagne-gold: #B69B72; /* Selective refined accents */
+  --color-pure-white:     #FFFFFF; /* Product cards and clean surfaces */
+  --color-soft-stone:     #EAE6DF; /* Subtle borders and dividers */
+  --color-muted-taupe:    #82786D; /* Secondary text */
+
+  /* Subtle supporting tonal extensions for depth */
+  --color-charcoal-hover: #35322E;
+  --color-charcoal-muted: #4A4640;
+  --color-champagne-light:#D0BC9C;
+  --color-champagne-dark: #987E56;
+  --color-champagne-subtle:#F4EFEA;
+  --color-stone-hover:    #DFDAD2;
+  --color-stone-subtle:   #F3F1EC;
+
+  /* ─────────────────────────────────────────
+   * 2. SEMANTIC ROLES
+   * ───────────────────────────────────────── */
+  --bg-primary:           var(--color-warm-ivory);
+  --bg-surface:           var(--color-pure-white);
+  --bg-surface-subtle:    var(--color-stone-subtle);
+  --bg-overlay:           rgba(36, 34, 31, 0.52);
+
+  --text-primary:         var(--color-charcoal-black);
+  --text-secondary:       var(--color-muted-taupe);
+  --text-accent:          var(--color-champagne-gold);
+  --text-inverse:         var(--color-warm-ivory);
+
+  --border-subtle:        var(--color-soft-stone);
+  --border-strong:        #D4CEC4;
+  --border-accent:        var(--color-champagne-gold);
+
+  /* ─────────────────────────────────────────
+   * 3. TYPOGRAPHY SYSTEM
+   * ───────────────────────────────────────── */
+  --font-serif:           var(--font-cormorant), 'Cormorant Garamond', Garamond, 'Times New Roman', serif;
+  --font-sans:            var(--font-inter), 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  /* Letter Spacing */
+  --tracking-tight:       -0.02em;
+  --tracking-normal:      0em;
+  --tracking-wide:        0.04em;
+  --tracking-wider:       0.08em;
+  --tracking-widest:      0.14em;
+  --tracking-wordmark:    0.22em;
+
+  /* ─────────────────────────────────────────
+   * 4. SPACING SYSTEM (4px Increments)
+   * ───────────────────────────────────────── */
+  --space-1:              4px;
+  --space-2:              8px;
+  --space-3:              12px;
+  --space-4:              16px;
+  --space-5:              20px;
+  --space-6:              24px;
+  --space-7:              28px;
+  --space-8:              32px;
+  --space-10:             40px;
+  --space-12:             48px;
+  --space-16:             64px;
+  --space-20:             80px;
+  --space-24:             96px;
+  --space-26:             104px;
+
+  /* ─────────────────────────────────────────
+   * 5. BORDER RADIUS SYSTEM
+   * ───────────────────────────────────────── */
+  --radius-card:          24px;   /* Product cards: 22–28px target */
+  --radius-image:         20px;   /* Product image containers: 18–24px target */
+  --radius-collection:    24px;   /* Collection cards: 22–28px target */
+  --radius-modal:         26px;   /* Modals & quick-view panels: 24–28px target */
+  --radius-input:         14px;   /* Form inputs: 12–16px target */
+  --radius-btn:           14px;   /* Button standard: 12–16px target */
+  --radius-pill:          9999px; /* Pill-shaped controls */
+  --radius-sm:            8px;
+  --radius-md:            12px;
+
+  /* ─────────────────────────────────────────
+   * 6. ELEVATION / SHADOWS (Minimal & Restrained)
+   * ───────────────────────────────────────── */
+  --shadow-subtle:        0 2px 8px rgba(36, 34, 31, 0.04);
+  --shadow-card:          0 4px 20px rgba(36, 34, 31, 0.05);
+  --shadow-modal:         0 20px 48px -12px rgba(36, 34, 31, 0.16);
+  --shadow-hover:         0 8px 24px rgba(36, 34, 31, 0.07);
+
+  /* ─────────────────────────────────────────
+   * 7. MOTION FOUNDATION
+   * ───────────────────────────────────────── */
+  --duration-micro:       180ms;  /* Micro-interactions: 150–220ms */
+  --duration-hover:       280ms;  /* Standard hover: 250–350ms */
+  --duration-modal:       300ms;  /* Modal transitions: 250–350ms */
+  --duration-section:     500ms;  /* Section entrance: 400–600ms */
+  --duration-hero:        650ms;  /* Hero transitions: 500–800ms */
+
+  --ease-luxury:          cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-smooth:          cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* ─────────────────────────────────────────
+   * 8. LAYOUT & CONTAINERS
+   * ───────────────────────────────────────── */
+  --container-max:        1360px;
+  --container-narrow:     880px;
+}
+
+/* Reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

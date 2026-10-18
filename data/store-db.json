@@ -1,0 +1,3659 @@
+{
+  "products": [
+    {
+      "id": "velore-noir-01",
+      "slug": "noir",
+      "name": "NOIR",
+      "subtitle": "Dark Woods, Black Pepper & Smoldering Incense",
+      "description": "An enigmatic evening extrait juxtaposing sharp cracked black pepper and bitter cacao against a majestic foundation of charred oak, dark patchouli, and somber Omani frankincense.",
+      "price": 310,
+      "currency": "USD",
+      "sizeMl": 100,
+      "size": "100ml Extrait de Parfum",
+      "images": [
+        "/images/products/product-noir.jpg"
+      ],
+      "image": "/images/products/product-noir.jpg",
+      "imageAlt": "VELORÉ NOIR luxury perfume flacon",
+      "fragranceFamily": "woody",
+      "family": "Woody",
+      "topNotes": [
+        "Cracked Black Pepper",
+        "Elemi Resin",
+        "Bitter Cacao"
+      ],
+      "heartNotes": [
+        "Smoky Frankincense",
+        "Nutmeg",
+        "Black Plum"
+      ],
+      "baseNotes": [
+        "Charred Oakwood",
+        "Dark Patchouli",
+        "Black Amber"
+      ],
+      "notes": {
+        "top": [
+          "Cracked Black Pepper",
+          "Elemi Resin",
+          "Bitter Cacao"
+        ],
+        "heart": [
+          "Smoky Frankincense",
+          "Nutmeg",
+          "Black Plum"
+        ],
+        "base": [
+          "Charred Oakwood",
+          "Dark Patchouli",
+          "Black Amber"
+        ]
+      },
+      "intensity": "Intense",
+      "longevity": "12+ hours",
+      "seasonTags": [
+        "Autumn",
+        "Winter"
+      ],
+      "occasionTags": [
+        "Evening & Occasion",
+        "Formal Gala"
+      ],
+      "collectionIds": [
+        "best-sellers",
+        "woody",
+        "evening-occasion"
+      ],
+      "isFeatured": true,
+      "isBestseller": true,
+      "isBestSeller": true,
+      "isAvailable": true,
+      "createdAt": "2026-08-10T00:00:00Z",
+      "seoTitle": "NOIR Extrait de Parfum — VELORÉ",
+      "seoDescription": "Discover NOIR by VELORÉ. An enigmatic composition of dark woods, black pepper, and smoldering incense.",
+      "sku": "VEL-NOIR-100",
+      "stock": 6,
+      "lowStockThreshold": 10,
+      "status": "published",
+      "updatedAt": "2026-08-10T00:00:00Z"
+    },
+    {
+      "id": "velore-elite-02",
+      "slug": "elite",
+      "name": "ÉLITE",
+      "subtitle": "Aromatic French Lavender, Clary Sage & Vetiver",
+      "description": "The epitome of sartorial refinement. Wild French high-altitude lavender married with aromatic clary sage, silver birch, and crisp Haitian vetiver, finished with warm roasted tonka bean.",
+      "price": 295,
+      "currency": "USD",
+      "sizeMl": 100,
+      "size": "100ml Eau de Parfum",
+      "images": [
+        "/images/products/product-elite.jpg"
+      ],
+      "image": "/images/products/product-elite.jpg",
+      "imageAlt": "VELORÉ ÉLITE luxury perfume bottle",
+      "fragranceFamily": "woody",
+      "family": "Woody",
+      "topNotes": [
+        "High-Altitude Lavender",
+        "Clary Sage",
+        "Pink Pepper"
+      ],
+      "heartNotes": [
+        "Silver Birch",
+        "Geranium Bourbon",
+        "Cardamom"
+      ],
+      "baseNotes": [
+        "Haitian Vetiver",
+        "Roasted Tonka",
+        "White Cedar"
+      ],
+      "notes": {
+        "top": [
+          "High-Altitude Lavender",
+          "Clary Sage",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Silver Birch",
+          "Geranium Bourbon",
+          "Cardamom"
+        ],
+        "base": [
+          "Haitian Vetiver",
+          "Roasted Tonka",
+          "White Cedar"
+        ]
+      },
+      "intensity": "Moderate",
+      "longevity": "8–10 hours",
+      "seasonTags": [
+        "Spring",
+        "Autumn",
+        "All Seasons"
+      ],
+      "occasionTags": [
+        "Everyday Signature",
+        "Executive & Business"
+      ],
+      "collectionIds": [
+        "new-arrivals",
+        "woody",
+        "everyday-signature",
+        "gifts"
+      ],
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isGift": true,
+      "isAvailable": true,
+      "createdAt": "2026-09-01T00:00:00Z",
+      "seoTitle": "ÉLITE Eau de Parfum — VELORÉ",
+      "seoDescription": "ÉLITE by VELORÉ: Sophisticated French lavender, clary sage, and crisp vetiver.",
+      "sku": "VEL-ELITE-100",
+      "stock": 28,
+      "lowStockThreshold": 10,
+      "status": "published",
+      "updatedAt": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "velore-lumiere-03",
+      "slug": "lumiere",
+      "name": "LUMIÈRE",
+      "subtitle": "Sparkling Calabrian Bergamot & Sheer White Florals",
+      "description": "Sunlit optimism bottled at the Golden Hour. Crystalline Calabrian citrus and bitter orange blossom illuminate a transparent heart of royal jasmine, solar freesia, and velvety white cedar.",
+      "price": 265,
+      "currency": "USD",
+      "sizeMl": 100,
+      "size": "100ml Eau de Parfum",
+      "images": [
+        "/images/products/product-lumiere.jpg"
+      ],
+      "image": "/images/products/product-lumiere.jpg",
+      "imageAlt": "VELORÉ LUMIÈRE citrus and floral fragrance",
+      "fragranceFamily": "fresh",
+      "family": "Fresh",
+      "topNotes": [
+        "Calabrian Bergamot",
+        "Mandarin Zest",
+        "Bitter Orange"
+      ],
+      "heartNotes": [
+        "Orange Blossom",
+        "Solar Freesia",
+        "Royal Jasmine"
+      ],
+      "baseNotes": [
+        "White Cedar",
+        "Sunlit Ambergris",
+        "Clean Musks"
+      ],
+      "notes": {
+        "top": [
+          "Calabrian Bergamot",
+          "Mandarin Zest",
+          "Bitter Orange"
+        ],
+        "heart": [
+          "Orange Blossom",
+          "Solar Freesia",
+          "Royal Jasmine"
+        ],
+        "base": [
+          "White Cedar",
+          "Sunlit Ambergris",
+          "Clean Musks"
+        ]
+      },
+      "intensity": "Moderate",
+      "longevity": "7–9 hours",
+      "seasonTags": [
+        "Spring",
+        "Summer"
+      ],
+      "occasionTags": [
+        "Everyday Signature",
+        "Daytime Elegance"
+      ],
+      "collectionIds": [
+        "fresh",
+        "everyday-signature"
+      ],
+      "isFeatured": false,
+      "isAvailable": true,
+      "createdAt": "2026-07-15T00:00:00Z",
+      "seoTitle": "LUMIÈRE Eau de Parfum — VELORÉ",
+      "seoDescription": "LUMIÈRE by VELORÉ: Luminous Calabrian citrus and sheer white floral notes.",
+      "sku": "VEL-LUMIERE-100",
+      "stock": 31,
+      "lowStockThreshold": 10,
+      "status": "published",
+      "updatedAt": "2026-07-15T00:00:00Z"
+    },
+    {
+      "id": "velore-oud-01",
+      "slug": "oud-royale-01",
+      "name": "OUD 01",
+      "subtitle": "Smoky Cambodi Oud, Damascena Rose & Birch Tar",
+      "description": "Our signature opus. An opulent union of 25-year aged Cambodian agarwood, velvety Bulgarian damascena rose absolute, and smoky birch tar wrapped in golden amber and precious saffron.",
+      "price": 340,
+      "compareAtPrice": 380,
+      "originalPrice": 380,
+      "currency": "USD",
+      "sizeMl": 100,
+      "size": "100ml Extrait de Parfum",
+      "images": [
+        "/images/products/product-oud01.jpg"
+      ],
+      "image": "/images/products/product-oud01.jpg",
+      "imageAlt": "VELORÉ OUD 01 Extrait de Parfum flacon",
+      "fragranceFamily": "woody",
+      "family": "Woody",
+      "topNotes": [
+        "Kashmiri Saffron",
+        "Calabrian Bergamot",
+        "Nutmeg"
+      ],
+      "heartNotes": [
+        "Bulgarian Damascena Rose",
+        "Smoky Birch",
+        "Frankincense"
+      ],
+      "baseNotes": [
+        "Cambodi Agarwood",
+        "Golden Ambergris",
+        "Atlas Cedar"
+      ],
+      "notes": {
+        "top": [
+          "Kashmiri Saffron",
+          "Calabrian Bergamot",
+          "Nutmeg"
+        ],
+        "heart": [
+          "Bulgarian Damascena Rose",
+          "Smoky Birch",
+          "Frankincense"
+        ],
+        "base": [
+          "Cambodi Agarwood",
+          "Golden Ambergris",
+          "Atlas Cedar"
+        ]
+      },
+      "intensity": "Extrait Intense",
+      "longevity": "14+ hours",
+      "seasonTags": [
+        "Autumn",
+        "Winter"
+      ],
+      "occasionTags": [
+        "Evening & Occasion",
+        "Grand Formalities"
+      ],
+      "collectionIds": [
+        "best-sellers",
+        "woody",
+        "evening-occasion"
+      ],
+      "isFeatured": true,
+      "isBestseller": true,
+      "isBestSeller": true,
+      "isAvailable": true,
+      "createdAt": "2026-06-01T00:00:00Z",
+      "seoTitle": "OUD 01 Extrait de Parfum — VELORÉ",
+      "seoDescription": "The iconic OUD 01 by VELORÉ. 25-year aged Cambodi agarwood and Bulgarian damascena rose.",
+      "sku": "VEL-OUDROYAL-100",
+      "stock": 5,
+      "lowStockThreshold": 10,
+      "status": "published",
+      "updatedAt": "2026-06-01T00:00:00Z"
+    },
+    {
+      "id": "velore-velvet-rose-05",
+      "slug": "velvet-rose",
+      "name": "VELVET ROSE",
+      "subtitle": "Turkish Rose Absolute, Warm Praline & Clove",
+      "description": "A decadent floral confection. Rich Turkish rose petals steeped in spiced clove, roasted caramelized praline, and warm golden ambergris for an irresistible, lingering embrace.",
+      "price": 280,
+      "currency": "USD",
+      "sizeMl": 100,
+      "size": "100ml Eau de Parfum",
+      "images": [
+        "/images/products/product-velvet-rose.jpg"
+      ],
+      "image": "/images/products/product-velvet-rose.jpg",
+      "imageAlt": "VELORÉ VELVET ROSE perfume bottle",
+      "fragranceFamily": "floral",
+      "family": "Floral",
+      "topNotes": [
+        "Clove Bud",
+        "Pink Pepper",
+        "Red Berries"
+      ],
+      "heartNotes": [
+        "Turkish Rose Absolute",
+        "Damask Rosewater",
+        "Orris"
+      ],
+      "baseNotes": [
+        "Roasted Praline",
+        "Bourbon Amber",
+        "Patchouli"
+      ],
+      "notes": {
+        "top": [
+          "Clove Bud",
+          "Pink Pepper",
+          "Red Berries"
+        ],
+        "heart": [
+          "Turkish Rose Absolute",
+          "Damask Rosewater",
+          "Orris"
+        ],
+        "base": [
+          "Roasted Praline",
+          "Bourbon Amber",
+          "Patchouli"
+        ]
+      },
+      "intensity": "Moderate",
+      "longevity": "9–11 hours",
+      "seasonTags": [
+        "Autumn",
+        "Winter",
+        "Spring"
+      ],
+      "occasionTags": [
+        "Evening & Occasion",
+        "Romantic Rendezvous"
+      ],
+      "collectionIds": [
+        "floral",
+        "evening-occasion",
+        "gifts"
+      ],
+      "isFeatured": true,
+      "isBestseller": true,
+      "isBestSeller": true,
+      "isGift": true,
+      "isAvailable": true,
+      "createdAt": "2026-08-20T00:00:00Z",
+      "seoTitle": "VELVET ROSE Eau de Parfum — VELORÉ",
+      "seoDescription": "VELVET ROSE by VELORÉ: Intoxicating Turkish rose absolute, warm praline, and spiced amber.",
+      "sku": "VEL-VELVETRO-100",
+      "stock": 37,
+      "lowStockThreshold": 10,
+      "status": "published",
+      "updatedAt": "2026-08-20T00:00:00Z"
+    },
+    {
+      "id": "velore-santal-06",
+      "slug": "santal",
+      "name": "SANTAL",
+      "subtitle": "Creamy Mysore Sandalwood, Cardamom & Violet Leaf",
+      "description": "A temple of calm and contemplation. Ethically harvested Mysore sandalwood, green crushed cardamom pods, and tender violet leaves wrapped in dry Australian papyrus.",
+      "price": 290,
+      "currency": "USD",
+      "sizeMl": 100,
+      "size": "100ml Eau de Parfum",
+      "images": [
+        "/images/products/product-santal.jpg"
+      ],
+      "image": "/images/products/product-santal.jpg",
+      "imageAlt": "VELORÉ SANTAL sandalwood fragrance bottle",
+      "fragranceFamily": "woody",
+      "family": "Woody",
+      "topNotes": [
+        "Green Cardamom",
+        "Violet Leaf",
+        "Coriander"
+      ],
+      "heartNotes": [
+        "Tuscan Iris",
+        "Papyrus",
+        "Cedarwood"
+      ],
+      "baseNotes": [
+        "Mysore Sandalwood",
+        "Cashmeran",
+        "White Amber"
+      ],
+      "notes": {
+        "top": [
+          "Green Cardamom",
+          "Violet Leaf",
+          "Coriander"
+        ],
+        "heart": [
+          "Tuscan Iris",
+          "Papyrus",
+          "Cedarwood"
+        ],
+        "base": [
+          "Mysore Sandalwood",
+          "Cashmeran",
+          "White Amber"
+        ]
+      },
+      "intensity": "Moderate",
+      "longevity": "10–12 hours",
+      "seasonTags": [
+        "All Seasons"
+      ],
+      "occasionTags": [
+        "Everyday Signature",
+        "Quiet Sophistication"
+      ],
+      "collectionIds": [
+        "best-sellers",
+        "woody",
+        "everyday-signature"
+      ],
+      "isFeatured": true,
+      "isBestseller": true,
+      "isBestSeller": true,
+      "isAvailable": true,
+      "createdAt": "2026-06-15T00:00:00Z",
+      "seoTitle": "SANTAL Eau de Parfum — VELORÉ",
+      "seoDescription": "SANTAL by VELORÉ: Creamy Mysore sandalwood, aromatic cardamom, and violet leaf.",
+      "sku": "VEL-SANTAL-100",
+      "stock": 40,
+      "lowStockThreshold": 10,
+      "status": "published",
+      "updatedAt": "2026-06-15T00:00:00Z"
+    },
+    {
+      "id": "velore-aura-07",
+      "slug": "aura",
+      "name": "AURA",
+      "subtitle": "Airy Solar Musks, Sparkling Aldehydes & White Tea",
+      "description": "Pure radiance and ethereal lightness. Clean, crystalline aldehydes rise like morning mist over delicate white peony, Chinese white tea, and translucent, skin-soft solar musks.",
+      "price": 255,
+      "currency": "USD",
+      "sizeMl": 100,
+      "size": "100ml Eau de Parfum",
+      "images": [
+        "/images/products/product-aura.jpg"
+      ],
+      "image": "/images/products/product-aura.jpg",
+      "imageAlt": "VELORÉ AURA clean and airy fragrance bottle",
+      "fragranceFamily": "fresh",
+      "family": "Fresh",
+      "topNotes": [
+        "Crisp Aldehydes",
+        "Italian Lemon",
+        "White Freesia"
+      ],
+      "heartNotes": [
+        "White Peony",
+        "White Tea Leaf",
+        "Lily of the Valley"
+      ],
+      "baseNotes": [
+        "Solar Musks",
+        "Cashmere Wood",
+        "Clean Ambrox"
+      ],
+      "notes": {
+        "top": [
+          "Crisp Aldehydes",
+          "Italian Lemon",
+          "White Freesia"
+        ],
+        "heart": [
+          "White Peony",
+          "White Tea Leaf",
+          "Lily of the Valley"
+        ],
+        "base": [
+          "Solar Musks",
+          "Cashmere Wood",
+          "Clean Ambrox"
+        ]
+      },
+      "intensity": "Subtle",
+      "longevity": "7–8 hours",
+      "seasonTags": [
+        "Spring",
+        "Summer"
+      ],
+      "occasionTags": [
+        "Everyday Signature",
+        "Warm Days"
+      ],
+      "collectionIds": [
+        "new-arrivals",
+        "fresh",
+        "everyday-signature"
+      ],
+      "isFeatured": false,
+      "isNewArrival": true,
+      "isAvailable": true,
+      "createdAt": "2026-09-10T00:00:00Z",
+      "seoTitle": "AURA Eau de Parfum — VELORÉ",
+      "seoDescription": "AURA by VELORÉ: An ethereal, clean fragrance of solar musks and sparkling aldehydes.",
+      "sku": "VEL-AURA-100",
+      "stock": 43,
+      "lowStockThreshold": 10,
+      "status": "published",
+      "updatedAt": "2026-09-10T00:00:00Z"
+    },
+    {
+      "id": "velore-amber-07-08",
+      "slug": "amber-07",
+      "name": "AMBER 07",
+      "subtitle": "Warm Benzoin, Resinous Labdanum & Spiced Clove",
+      "description": "Seventh in our resinous master sequence. Rich, viscous Siamese benzoin and Spanish labdanum blended with crushed cinnamon bark, clove, and warm smoky ambergris.",
+      "price": 315,
+      "currency": "USD",
+      "sizeMl": 100,
+      "size": "100ml Extrait de Parfum",
+      "images": [
+        "/images/products/product-amber07.jpg"
+      ],
+      "image": "/images/products/product-amber07.jpg",
+      "imageAlt": "VELORÉ AMBER 07 warm amber extrait flacon",
+      "fragranceFamily": "amber-oriental",
+      "family": "Amber & Oriental",
+      "topNotes": [
+        "Coriander Seed",
+        "Bergamot",
+        "Cinnamon Bark"
+      ],
+      "heartNotes": [
+        "Spanish Labdanum",
+        "Siamese Benzoin",
+        "Clove Bud"
+      ],
+      "baseNotes": [
+        "Golden Ambergris",
+        "Bourbon Vanilla",
+        "Cedar"
+      ],
+      "notes": {
+        "top": [
+          "Coriander Seed",
+          "Bergamot",
+          "Cinnamon Bark"
+        ],
+        "heart": [
+          "Spanish Labdanum",
+          "Siamese Benzoin",
+          "Clove Bud"
+        ],
+        "base": [
+          "Golden Ambergris",
+          "Bourbon Vanilla",
+          "Cedar"
+        ]
+      },
+      "intensity": "Extrait Intense",
+      "longevity": "13+ hours",
+      "seasonTags": [
+        "Autumn",
+        "Winter"
+      ],
+      "occasionTags": [
+        "Evening & Occasion",
+        "Winter Warmth"
+      ],
+      "collectionIds": [
+        "best-sellers",
+        "amber-oriental",
+        "evening-occasion"
+      ],
+      "isFeatured": true,
+      "isBestseller": true,
+      "isBestSeller": true,
+      "isAvailable": true,
+      "createdAt": "2026-07-01T00:00:00Z",
+      "seoTitle": "AMBER 07 Extrait de Parfum — VELORÉ",
+      "seoDescription": "AMBER 07 by VELORÉ: Opulent golden amber, Siamese benzoin, and warm spice.",
+      "sku": "VEL-AMBER07-100",
+      "stock": 5,
+      "lowStockThreshold": 10,
+      "status": "published",
+      "updatedAt": "2026-07-01T00:00:00Z"
+    },
+    {
+      "id": "velore-bois-blanc-09",
+      "slug": "bois-blanc",
+      "name": "BOIS BLANC",
+      "subtitle": "White Cedar, Haitian Vetiver & Dry Birchwood",
+      "description": "An architectural exploration of dry woods. Virginian white cedarwood and smokeless birch paired with mineral vetiver root, yielding a crisp, contemporary minimalist sillage.",
+      "price": 270,
+      "currency": "USD",
+      "sizeMl": 100,
+      "size": "100ml Eau de Parfum",
+      "images": [
+        "/images/products/product-bois-blanc.jpg"
+      ],
+      "image": "/images/products/product-bois-blanc.jpg",
+      "imageAlt": "VELORÉ BOIS BLANC white woods fragrance",
+      "fragranceFamily": "woody",
+      "family": "Woody",
+      "topNotes": [
+        "Angelica Root",
+        "Juniper Berry",
+        "Grapefruit Peel"
+      ],
+      "heartNotes": [
+        "White Cedar",
+        "Orris Root",
+        "Pine Needles"
+      ],
+      "baseNotes": [
+        "Haitian Vetiver",
+        "Dry Birchwood",
+        "Mineral Amber"
+      ],
+      "notes": {
+        "top": [
+          "Angelica Root",
+          "Juniper Berry",
+          "Grapefruit Peel"
+        ],
+        "heart": [
+          "White Cedar",
+          "Orris Root",
+          "Pine Needles"
+        ],
+        "base": [
+          "Haitian Vetiver",
+          "Dry Birchwood",
+          "Mineral Amber"
+        ]
+      },
+      "intensity": "Moderate",
+      "longevity": "8–10 hours",
+      "seasonTags": [
+        "All Seasons"
+      ],
+      "occasionTags": [
+        "Everyday Signature",
+        "Creative Focus"
+      ],
+      "collectionIds": [
+        "woody",
+        "everyday-signature"
+      ],
+      "isFeatured": false,
+      "isAvailable": true,
+      "createdAt": "2026-08-05T00:00:00Z",
+      "seoTitle": "BOIS BLANC Eau de Parfum — VELORÉ",
+      "seoDescription": "BOIS BLANC by VELORÉ: Minimalist white cedar, Haitian vetiver, and dry birchwood.",
+      "sku": "VEL-BOISBLAN-100",
+      "stock": 49,
+      "lowStockThreshold": 10,
+      "status": "published",
+      "updatedAt": "2026-08-05T00:00:00Z"
+    },
+    {
+      "id": "velore-verite-10",
+      "slug": "verite",
+      "name": "VÉRITÉ",
+      "subtitle": "Florentine Orris, Green Galbanum & Frankincense",
+      "description": "Truth in raw formulation. Rare three-year-cured Florentine orris root butter paired with bitter Persian galbanum, fresh cardamom, and church incense, creating a noble powdered green trail.",
+      "price": 330,
+      "currency": "USD",
+      "sizeMl": 100,
+      "size": "100ml Extrait de Parfum",
+      "images": [
+        "/images/products/product-verite.jpg"
+      ],
+      "image": "/images/products/product-verite.jpg",
+      "imageAlt": "VELORÉ VÉRITÉ pure orris extrait flacon",
+      "fragranceFamily": "floral",
+      "family": "Floral",
+      "topNotes": [
+        "Persian Galbanum",
+        "Green Cardamom",
+        "Bergamot"
+      ],
+      "heartNotes": [
+        "Florentine Orris Butter",
+        "Narcissus",
+        "Violet"
+      ],
+      "baseNotes": [
+        "Omani Frankincense",
+        "White Suede",
+        "Cedar"
+      ],
+      "notes": {
+        "top": [
+          "Persian Galbanum",
+          "Green Cardamom",
+          "Bergamot"
+        ],
+        "heart": [
+          "Florentine Orris Butter",
+          "Narcissus",
+          "Violet"
+        ],
+        "base": [
+          "Omani Frankincense",
+          "White Suede",
+          "Cedar"
+        ]
+      },
+      "intensity": "Intense",
+      "longevity": "11+ hours",
+      "seasonTags": [
+        "Spring",
+        "Autumn"
+      ],
+      "occasionTags": [
+        "Everyday Signature",
+        "Art & Gallery"
+      ],
+      "collectionIds": [
+        "floral",
+        "everyday-signature"
+      ],
+      "isFeatured": false,
+      "isAvailable": true,
+      "createdAt": "2026-07-28T00:00:00Z",
+      "seoTitle": "VÉRITÉ Extrait de Parfum — VELORÉ",
+      "seoDescription": "VÉRITÉ by VELORÉ: Masterful Florentine orris butter, green galbanum, and incense.",
+      "sku": "VEL-VERITE-100",
+      "stock": 52,
+      "lowStockThreshold": 10,
+      "status": "published",
+      "updatedAt": "2026-07-28T00:00:00Z"
+    },
+    {
+      "id": "velore-eclat-11",
+      "slug": "eclat-de-bergamote",
+      "name": "ÉCLAT",
+      "subtitle": "Calabrian Bergamot, Neroli Petals & Clean Amber",
+      "description": "The essence of Mediterranean light. Cold-pressed winter bergamot from Reggio Calabria blended with intoxicating Tunisian neroli petals, orange blossom, and sheer crystalline amber.",
+      "price": 245,
+      "currency": "USD",
+      "sizeMl": 100,
+      "size": "100ml Eau de Parfum",
+      "images": [
+        "/images/products/product-eclat.jpg"
+      ],
+      "image": "/images/products/product-eclat.jpg",
+      "imageAlt": "VELORÉ ÉCLAT citrus fragrance bottle",
+      "fragranceFamily": "fresh",
+      "family": "Fresh",
+      "topNotes": [
+        "Calabrian Bergamot",
+        "Petitgrain",
+        "Bitter Orange"
+      ],
+      "heartNotes": [
+        "Tunisian Neroli",
+        "Orange Blossom",
+        "White Tea"
+      ],
+      "baseNotes": [
+        "Clean Amber",
+        "Crystalline Musk",
+        "Driftwood"
+      ],
+      "notes": {
+        "top": [
+          "Calabrian Bergamot",
+          "Petitgrain",
+          "Bitter Orange"
+        ],
+        "heart": [
+          "Tunisian Neroli",
+          "Orange Blossom",
+          "White Tea"
+        ],
+        "base": [
+          "Clean Amber",
+          "Crystalline Musk",
+          "Driftwood"
+        ]
+      },
+      "intensity": "Moderate",
+      "longevity": "7–8 hours",
+      "seasonTags": [
+        "Spring",
+        "Summer"
+      ],
+      "occasionTags": [
+        "Everyday Signature",
+        "Daytime Leisure"
+      ],
+      "collectionIds": [
+        "new-arrivals",
+        "fresh",
+        "everyday-signature"
+      ],
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isAvailable": true,
+      "createdAt": "2026-09-18T00:00:00Z",
+      "seoTitle": "ÉCLAT Eau de Parfum — VELORÉ",
+      "seoDescription": "ÉCLAT by VELORÉ: Sparkling Calabrian bergamot and radiant Tunisian neroli petals.",
+      "sku": "VEL-ECLATDEB-100",
+      "stock": 55,
+      "lowStockThreshold": 10,
+      "status": "published",
+      "updatedAt": "2026-09-18T00:00:00Z"
+    },
+    {
+      "id": "velore-nuit-12",
+      "slug": "nuit",
+      "name": "NUIT",
+      "subtitle": "Night-Blooming Jasmine, Incense & Dark Patchouli",
+      "description": "An intoxicating midnight spell. Nocturnal jasmine sambac harvested under moonlight, blended with dark Sumatran patchouli, smoldering myrrh resin, and black velvet amber.",
+      "price": 320,
+      "currency": "USD",
+      "sizeMl": 100,
+      "size": "100ml Extrait de Parfum",
+      "images": [
+        "/images/products/product-nuit.jpg"
+      ],
+      "image": "/images/products/product-nuit.jpg",
+      "imageAlt": "VELORÉ NUIT night jasmine fragrance flacon",
+      "fragranceFamily": "amber-oriental",
+      "family": "Amber & Oriental",
+      "topNotes": [
+        "Black Currant",
+        "Italian Bergamot",
+        "Nutmeg"
+      ],
+      "heartNotes": [
+        "Night-Blooming Jasmine",
+        "Red Rose",
+        "Myrrh"
+      ],
+      "baseNotes": [
+        "Dark Patchouli",
+        "Black Amber",
+        "Benzoin"
+      ],
+      "notes": {
+        "top": [
+          "Black Currant",
+          "Italian Bergamot",
+          "Nutmeg"
+        ],
+        "heart": [
+          "Night-Blooming Jasmine",
+          "Red Rose",
+          "Myrrh"
+        ],
+        "base": [
+          "Dark Patchouli",
+          "Black Amber",
+          "Benzoin"
+        ]
+      },
+      "intensity": "Intense",
+      "longevity": "12+ hours",
+      "seasonTags": [
+        "Autumn",
+        "Winter"
+      ],
+      "occasionTags": [
+        "Evening & Occasion",
+        "Midnight Intimacy"
+      ],
+      "collectionIds": [
+        "amber-oriental",
+        "evening-occasion"
+      ],
+      "isFeatured": false,
+      "isAvailable": true,
+      "createdAt": "2026-08-12T00:00:00Z",
+      "seoTitle": "NUIT Extrait de Parfum — VELORÉ",
+      "seoDescription": "NUIT by VELORÉ: Seductive night-blooming jasmine, incense, and dark patchouli.",
+      "sku": "VEL-NUIT-100",
+      "stock": 58,
+      "lowStockThreshold": 10,
+      "status": "published",
+      "updatedAt": "2026-08-12T00:00:00Z"
+    },
+    {
+      "id": "velore-musc-blanc-13",
+      "slug": "musc-blanc",
+      "name": "MUSC BLANC",
+      "subtitle": "Cotton Blossom, Heliotrope & Second-Skin Musks",
+      "description": "The luxury of understated elegance. A skin-scent veil of sun-dried Egyptian cotton flower, powdery heliotrope, and gentle macrocyclic white musks that linger intimately on the collarbone.",
+      "price": 250,
+      "currency": "USD",
+      "sizeMl": 100,
+      "size": "100ml Eau de Parfum",
+      "images": [
+        "/images/products/product-musc-blanc.jpg"
+      ],
+      "image": "/images/products/product-musc-blanc.jpg",
+      "imageAlt": "VELORÉ MUSC BLANC clean skin musk flacon",
+      "fragranceFamily": "fresh",
+      "family": "Fresh",
+      "topNotes": [
+        "White Freesia",
+        "Crisp Aldehydes",
+        "Cotton Flower"
+      ],
+      "heartNotes": [
+        "Heliotrope",
+        "White Peony",
+        "Lilly of the Valley"
+      ],
+      "baseNotes": [
+        "Solar Musks",
+        "Sandalwood",
+        "Skin Accord"
+      ],
+      "notes": {
+        "top": [
+          "White Freesia",
+          "Crisp Aldehydes",
+          "Cotton Flower"
+        ],
+        "heart": [
+          "Heliotrope",
+          "White Peony",
+          "Lilly of the Valley"
+        ],
+        "base": [
+          "Solar Musks",
+          "Sandalwood",
+          "Skin Accord"
+        ]
+      },
+      "intensity": "Subtle",
+      "longevity": "8–10 hours",
+      "seasonTags": [
+        "All Seasons"
+      ],
+      "occasionTags": [
+        "Everyday Signature",
+        "Intimate Moments"
+      ],
+      "collectionIds": [
+        "new-arrivals",
+        "fresh",
+        "everyday-signature"
+      ],
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isAvailable": true,
+      "createdAt": "2026-09-22T00:00:00Z",
+      "seoTitle": "MUSC BLANC Eau de Parfum — VELORÉ",
+      "seoDescription": "MUSC BLANC by VELORÉ: Pure cotton blossom, heliotrope, and second-skin musks.",
+      "sku": "VEL-MUSCBLAN-100",
+      "stock": 61,
+      "lowStockThreshold": 10,
+      "status": "published",
+      "updatedAt": "2026-09-22T00:00:00Z"
+    },
+    {
+      "id": "velore-oud-royale-14",
+      "slug": "oud-royale",
+      "name": "OUD ROYALE",
+      "subtitle": "Aged Agarwood, Kashmiri Saffron & Golden Ambergris",
+      "description": "The crown jewel of our vault. Hand-selected wild agarwood aged for three decades, enveloped in rare Kashmiri red saffron threads, rich Taif rose, and natural maritime ambergris.",
+      "price": 385,
+      "currency": "USD",
+      "sizeMl": 100,
+      "size": "100ml Extrait de Parfum",
+      "images": [
+        "/images/products/product-oud-royale.jpg"
+      ],
+      "image": "/images/products/product-oud-royale.jpg",
+      "imageAlt": "VELORÉ OUD ROYALE vintage agarwood flacon",
+      "fragranceFamily": "woody",
+      "family": "Woody",
+      "topNotes": [
+        "Kashmiri Saffron",
+        "Cardamom",
+        "Bergamot"
+      ],
+      "heartNotes": [
+        "Taif Rose",
+        "Smoky Birch",
+        "Incense Tears"
+      ],
+      "baseNotes": [
+        "Wild Agarwood 30Y",
+        "Golden Ambergris",
+        "Sandalwood"
+      ],
+      "notes": {
+        "top": [
+          "Kashmiri Saffron",
+          "Cardamom",
+          "Bergamot"
+        ],
+        "heart": [
+          "Taif Rose",
+          "Smoky Birch",
+          "Incense Tears"
+        ],
+        "base": [
+          "Wild Agarwood 30Y",
+          "Golden Ambergris",
+          "Sandalwood"
+        ]
+      },
+      "intensity": "Extrait Intense",
+      "longevity": "16+ hours",
+      "seasonTags": [
+        "Autumn",
+        "Winter"
+      ],
+      "occasionTags": [
+        "Evening & Occasion",
+        "Grand Formalities"
+      ],
+      "collectionIds": [
+        "best-sellers",
+        "woody",
+        "evening-occasion"
+      ],
+      "isFeatured": true,
+      "isBestseller": true,
+      "isBestSeller": true,
+      "isAvailable": true,
+      "createdAt": "2026-05-15T00:00:00Z",
+      "seoTitle": "OUD ROYALE Extrait de Parfum — VELORÉ",
+      "seoDescription": "OUD ROYALE by VELORÉ: 30-year wild agarwood, Kashmiri saffron, and maritime ambergris.",
+      "sku": "VEL-OUDROYAL-100",
+      "stock": 64,
+      "lowStockThreshold": 10,
+      "status": "published",
+      "updatedAt": "2026-05-15T00:00:00Z"
+    },
+    {
+      "id": "velore-rose-absolue-15",
+      "slug": "rose-absolue",
+      "name": "ROSE ABSOLUE",
+      "subtitle": "Grasse Centifolia, Madagascar Pink Pepper & Patchouli",
+      "description": "An ode to May harvest in Grasse. Thousands of hand-picked centifolia rose petals crushed at sunrise, spiced with sparkling Madagascar pink pepper, and anchored by clean patchouli blanc.",
+      "price": 275,
+      "currency": "USD",
+      "sizeMl": 100,
+      "size": "100ml Eau de Parfum",
+      "images": [
+        "/images/products/product-rose-absolue.jpg"
+      ],
+      "image": "/images/products/product-rose-absolue.jpg",
+      "imageAlt": "VELORÉ ROSE ABSOLUE May rose perfume",
+      "fragranceFamily": "floral",
+      "family": "Floral",
+      "topNotes": [
+        "Madagascar Pink Pepper",
+        "Mandarin Zest",
+        "Bergamot"
+      ],
+      "heartNotes": [
+        "Grasse Centifolia Rose",
+        "Turkish Rose Absolute"
+      ],
+      "baseNotes": [
+        "Patchouli Blanc",
+        "Ambrette Seed",
+        "White Musks"
+      ],
+      "notes": {
+        "top": [
+          "Madagascar Pink Pepper",
+          "Mandarin Zest",
+          "Bergamot"
+        ],
+        "heart": [
+          "Grasse Centifolia Rose",
+          "Turkish Rose Absolute"
+        ],
+        "base": [
+          "Patchouli Blanc",
+          "Ambrette Seed",
+          "White Musks"
+        ]
+      },
+      "intensity": "Moderate",
+      "longevity": "9–10 hours",
+      "seasonTags": [
+        "Spring",
+        "Summer",
+        "All Seasons"
+      ],
+      "occasionTags": [
+        "Everyday Signature",
+        "Daytime Elegance"
+      ],
+      "collectionIds": [
+        "best-sellers",
+        "floral",
+        "everyday-signature"
+      ],
+      "isFeatured": true,
+      "isBestseller": true,
+      "isBestSeller": true,
+      "isAvailable": true,
+      "createdAt": "2026-06-25T00:00:00Z",
+      "seoTitle": "ROSE ABSOLUE Eau de Parfum — VELORÉ",
+      "seoDescription": "ROSE ABSOLUE by VELORÉ: Grasse centifolia rose, pink pepper, and clean patchouli blanc.",
+      "sku": "VEL-ROSEABSO-100",
+      "stock": 27,
+      "lowStockThreshold": 10,
+      "status": "published",
+      "updatedAt": "2026-06-25T00:00:00Z"
+    },
+    {
+      "id": "velore-cedre-elite-16",
+      "slug": "cedre-elite",
+      "name": "CÈDRE ÉLITE",
+      "subtitle": "Wild Himalayan Cedar, Juniper & Clary Sage",
+      "description": "High mountain air and ancient coniferous forests. Noble Himalayan cedarwood resin blended with crisp gin-like juniper berries, herbal clary sage, and damp earthy moss.",
+      "price": 260,
+      "currency": "USD",
+      "sizeMl": 100,
+      "size": "100ml Eau de Parfum",
+      "images": [
+        "/images/products/product-cedre.jpg"
+      ],
+      "image": "/images/products/product-cedre.jpg",
+      "imageAlt": "VELORÉ CÈDRE ÉLITE cedarwood fragrance bottle",
+      "fragranceFamily": "woody",
+      "family": "Woody",
+      "topNotes": [
+        "Juniper Berries",
+        "Clary Sage",
+        "Pink Grapefruit"
+      ],
+      "heartNotes": [
+        "Himalayan Cedar",
+        "Cypress Needles",
+        "Pine Cone"
+      ],
+      "baseNotes": [
+        "Haitian Vetiver",
+        "Oakmoss",
+        "White Cedar"
+      ],
+      "notes": {
+        "top": [
+          "Juniper Berries",
+          "Clary Sage",
+          "Pink Grapefruit"
+        ],
+        "heart": [
+          "Himalayan Cedar",
+          "Cypress Needles",
+          "Pine Cone"
+        ],
+        "base": [
+          "Haitian Vetiver",
+          "Oakmoss",
+          "White Cedar"
+        ]
+      },
+      "intensity": "Moderate",
+      "longevity": "8–10 hours",
+      "seasonTags": [
+        "Autumn",
+        "Winter",
+        "Spring"
+      ],
+      "occasionTags": [
+        "Everyday Signature",
+        "Outdoor Crispness"
+      ],
+      "collectionIds": [
+        "new-arrivals",
+        "woody",
+        "everyday-signature"
+      ],
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isAvailable": true,
+      "createdAt": "2026-09-14T00:00:00Z",
+      "seoTitle": "CÈDRE ÉLITE Eau de Parfum — VELORÉ",
+      "seoDescription": "CÈDRE ÉLITE by VELORÉ: Himalayan cedarwood, aromatic juniper, and clary sage.",
+      "sku": "VEL-CEDREELI-100",
+      "stock": 30,
+      "lowStockThreshold": 10,
+      "status": "published",
+      "updatedAt": "2026-09-14T00:00:00Z"
+    },
+    {
+      "id": "velore-iris-noir-17",
+      "slug": "iris-noir",
+      "name": "IRIS NOIR",
+      "subtitle": "Florentine Orris, Polished Leather & Night Jasmine",
+      "description": "An aristocratic nocturnal composition. The buttery richness of aged Florentine orris root juxtaposed against soft glover's leather, midnight jasmine, and dark tonka bean.",
+      "price": 325,
+      "currency": "USD",
+      "sizeMl": 100,
+      "size": "100ml Extrait de Parfum",
+      "images": [
+        "/images/products/product-iris-noir.jpg"
+      ],
+      "image": "/images/products/product-iris-noir.jpg",
+      "imageAlt": "VELORÉ IRIS NOIR orris and leather extrait flacon",
+      "fragranceFamily": "floral",
+      "family": "Floral",
+      "topNotes": [
+        "Italian Bergamot",
+        "Angelica Seed",
+        "Pink Pepper"
+      ],
+      "heartNotes": [
+        "Florentine Orris",
+        "Night Jasmine",
+        "Osmanthus"
+      ],
+      "baseNotes": [
+        "Cuir Noir (Leather)",
+        "Siam Benzoin",
+        "Smoky Cedar"
+      ],
+      "notes": {
+        "top": [
+          "Italian Bergamot",
+          "Angelica Seed",
+          "Pink Pepper"
+        ],
+        "heart": [
+          "Florentine Orris",
+          "Night Jasmine",
+          "Osmanthus"
+        ],
+        "base": [
+          "Cuir Noir (Leather)",
+          "Siam Benzoin",
+          "Smoky Cedar"
+        ]
+      },
+      "intensity": "Intense",
+      "longevity": "12+ hours",
+      "seasonTags": [
+        "Autumn",
+        "Winter"
+      ],
+      "occasionTags": [
+        "Evening & Occasion",
+        "Formal Soirée"
+      ],
+      "collectionIds": [
+        "new-arrivals",
+        "floral",
+        "evening-occasion"
+      ],
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isAvailable": true,
+      "createdAt": "2026-09-08T00:00:00Z",
+      "seoTitle": "IRIS NOIR Extrait de Parfum — VELORÉ",
+      "seoDescription": "IRIS NOIR by VELORÉ: Florentine orris root, midnight jasmine, and supple leather.",
+      "sku": "VEL-IRISNOIR-100",
+      "stock": 33,
+      "lowStockThreshold": 10,
+      "status": "published",
+      "updatedAt": "2026-09-08T00:00:00Z"
+    },
+    {
+      "id": "velore-ambre-nuit-18",
+      "slug": "ambre-nuit",
+      "name": "AMBRE NUIT",
+      "subtitle": "Golden Labdanum, Bourbon Vanilla & Benzoin",
+      "description": "Warmth captured in liquid amber. Sun-baked Mediterranean labdanum resin infused with spicy cinnamon bark, Madagascan bourbon vanilla beans, and roasted benzoin.",
+      "price": 310,
+      "compareAtPrice": 345,
+      "originalPrice": 345,
+      "currency": "USD",
+      "sizeMl": 100,
+      "size": "100ml Extrait de Parfum",
+      "images": [
+        "/images/products/product-ambre.jpg"
+      ],
+      "image": "/images/products/product-ambre.jpg",
+      "imageAlt": "VELORÉ AMBRE NUIT amber vanilla extrait flacon",
+      "fragranceFamily": "amber-oriental",
+      "family": "Amber & Oriental",
+      "topNotes": [
+        "Coriander Seed",
+        "Calabrian Bergamot",
+        "Cinnamon Bark"
+      ],
+      "heartNotes": [
+        "Golden Labdanum",
+        "Smoky Benzoin",
+        "Orris Butter"
+      ],
+      "baseNotes": [
+        "Bourbon Vanilla",
+        "Tonka Bean",
+        "Golden Amber"
+      ],
+      "notes": {
+        "top": [
+          "Coriander Seed",
+          "Calabrian Bergamot",
+          "Cinnamon Bark"
+        ],
+        "heart": [
+          "Golden Labdanum",
+          "Smoky Benzoin",
+          "Orris Butter"
+        ],
+        "base": [
+          "Bourbon Vanilla",
+          "Tonka Bean",
+          "Golden Amber"
+        ]
+      },
+      "intensity": "Intense",
+      "longevity": "13+ hours",
+      "seasonTags": [
+        "Autumn",
+        "Winter"
+      ],
+      "occasionTags": [
+        "Evening & Occasion",
+        "Fireside Intimacy"
+      ],
+      "collectionIds": [
+        "best-sellers",
+        "amber-oriental",
+        "evening-occasion"
+      ],
+      "isFeatured": true,
+      "isBestseller": true,
+      "isBestSeller": true,
+      "isAvailable": true,
+      "createdAt": "2026-06-20T00:00:00Z",
+      "seoTitle": "AMBRE NUIT Extrait de Parfum — VELORÉ",
+      "seoDescription": "AMBRE NUIT by VELORÉ: Resinous Spanish labdanum, cinnamon, and bourbon vanilla.",
+      "sku": "VEL-AMBRENUI-100",
+      "stock": 36,
+      "lowStockThreshold": 10,
+      "status": "published",
+      "updatedAt": "2026-06-20T00:00:00Z"
+    },
+    {
+      "id": "velore-maison-signature-19",
+      "slug": "maison-signature",
+      "name": "MAISON SIGNATURE",
+      "subtitle": "Elemi Resin, Vintage Benzoin & Smoked Cedar",
+      "description": "The founding scent of our Paris atelier. Balsamic elemi gum from the Philippines, aged Siam benzoin, and smoked cedarwood, unified by a whisper of dry incense and golden musks.",
+      "price": 350,
+      "currency": "USD",
+      "sizeMl": 100,
+      "size": "100ml Extrait de Parfum",
+      "images": [
+        "/images/products/product-elan-signature.jpg"
+      ],
+      "image": "/images/products/product-elan-signature.jpg",
+      "imageAlt": "VELORÉ MAISON SIGNATURE founding flacon",
+      "fragranceFamily": "amber-oriental",
+      "family": "Amber & Oriental",
+      "topNotes": [
+        "Elemi Resin",
+        "Cardamom",
+        "Bergamot"
+      ],
+      "heartNotes": [
+        "Incense Tears",
+        "Cashmeran",
+        "Myrrh"
+      ],
+      "baseNotes": [
+        "Siam Benzoin",
+        "Smoked Cedar",
+        "Golden Musks"
+      ],
+      "notes": {
+        "top": [
+          "Elemi Resin",
+          "Cardamom",
+          "Bergamot"
+        ],
+        "heart": [
+          "Incense Tears",
+          "Cashmeran",
+          "Myrrh"
+        ],
+        "base": [
+          "Siam Benzoin",
+          "Smoked Cedar",
+          "Golden Musks"
+        ]
+      },
+      "intensity": "Extrait Intense",
+      "longevity": "14+ hours",
+      "seasonTags": [
+        "All Seasons"
+      ],
+      "occasionTags": [
+        "Everyday Signature",
+        "Connoisseur Evenings"
+      ],
+      "collectionIds": [
+        "best-sellers",
+        "amber-oriental",
+        "evening-occasion",
+        "gifts"
+      ],
+      "isFeatured": true,
+      "isBestseller": true,
+      "isBestSeller": true,
+      "isGift": true,
+      "isAvailable": true,
+      "createdAt": "2026-05-01T00:00:00Z",
+      "seoTitle": "MAISON SIGNATURE Extrait de Parfum — VELORÉ",
+      "seoDescription": "MAISON SIGNATURE by VELORÉ: The atelier's founding formulation of elemi and aged benzoin.",
+      "sku": "VEL-MAISONSI-100",
+      "stock": 39,
+      "lowStockThreshold": 10,
+      "status": "published",
+      "updatedAt": "2026-05-01T00:00:00Z"
+    },
+    {
+      "id": "velore-discovery-set-20",
+      "slug": "discovery-collection",
+      "name": "THE PRIVATE DISCOVERY COFFRET",
+      "subtitle": "Five 10ml Signature Fragrance Extraits",
+      "description": "An invitation to explore the full spectrum of VELORÉ. Includes Oud Royale 01, Santal, Rose Absolue, Ambre Nuit, and Éclat in 10ml glass flacons with a $135 voucher toward your first full bottle.",
+      "price": 135,
+      "currency": "USD",
+      "sizeMl": 50,
+      "size": "5 × 10ml Coffret",
+      "images": [
+        "/images/products/product-discovery-set.jpg"
+      ],
+      "image": "/images/products/product-discovery-set.jpg",
+      "imageAlt": "VELORÉ Private Discovery Coffret gift set",
+      "fragranceFamily": "woody",
+      "family": "Woody",
+      "topNotes": [
+        "5 Scent Profiles: Woody, Floral, Fresh, Amber"
+      ],
+      "heartNotes": [
+        "Handmade Velvet Gift Box"
+      ],
+      "baseNotes": [
+        "Includes $135 Full Bottle Voucher"
+      ],
+      "notes": {
+        "top": [
+          "5 Scent Profiles: Woody, Floral, Fresh, Amber"
+        ],
+        "heart": [
+          "Handmade Velvet Gift Box"
+        ],
+        "base": [
+          "Includes $135 Full Bottle Voucher"
+        ]
+      },
+      "intensity": "Moderate",
+      "longevity": "Varies by extrait",
+      "seasonTags": [
+        "All Seasons"
+      ],
+      "occasionTags": [
+        "Gifting",
+        "Travel & Discovery"
+      ],
+      "collectionIds": [
+        "gifts",
+        "best-sellers"
+      ],
+      "isFeatured": true,
+      "isBestseller": true,
+      "isBestSeller": true,
+      "isGift": true,
+      "isAvailable": true,
+      "createdAt": "2026-05-10T00:00:00Z",
+      "seoTitle": "The Private Discovery Coffret — VELORÉ",
+      "seoDescription": "Explore five VELORÉ signature fragrance extraits housed in an artisan gift box.",
+      "sku": "VEL-DISCOVER-100",
+      "stock": 42,
+      "lowStockThreshold": 10,
+      "status": "published",
+      "updatedAt": "2026-05-10T00:00:00Z"
+    },
+    {
+      "id": "velore-vintage-santal-21",
+      "slug": "vintage-santal",
+      "name": "VINTAGE SANTAL",
+      "subtitle": "Barrel-Aged Mysore Sandalwood & Tonka",
+      "description": "A reserve harvest aged in French oak barrels. Exceptionally rounded Mysore sandalwood heartwood, warm spicy cardamom, sweet hay accord, and balsamic tonka absolute.",
+      "price": 360,
+      "currency": "USD",
+      "sizeMl": 100,
+      "size": "100ml Extrait de Parfum",
+      "images": [
+        "/images/products/product-maison.jpg"
+      ],
+      "image": "/images/products/product-maison.jpg",
+      "imageAlt": "VELORÉ VINTAGE SANTAL reserve flacon",
+      "fragranceFamily": "woody",
+      "family": "Woody",
+      "topNotes": [
+        "Aged Cardamom",
+        "Bergamot",
+        "Nutmeg"
+      ],
+      "heartNotes": [
+        "Mysore Sandalwood Heart",
+        "French Oak",
+        "Papyrus"
+      ],
+      "baseNotes": [
+        "Tonka Absolute",
+        "Cashmeran",
+        "Dark Amber"
+      ],
+      "notes": {
+        "top": [
+          "Aged Cardamom",
+          "Bergamot",
+          "Nutmeg"
+        ],
+        "heart": [
+          "Mysore Sandalwood Heart",
+          "French Oak",
+          "Papyrus"
+        ],
+        "base": [
+          "Tonka Absolute",
+          "Cashmeran",
+          "Dark Amber"
+        ]
+      },
+      "intensity": "Extrait Intense",
+      "longevity": "14+ hours",
+      "seasonTags": [
+        "Autumn",
+        "Winter"
+      ],
+      "occasionTags": [
+        "Evening & Occasion",
+        "Collector Reserve"
+      ],
+      "collectionIds": [
+        "new-arrivals",
+        "woody",
+        "evening-occasion"
+      ],
+      "isFeatured": true,
+      "isNewArrival": true,
+      "isAvailable": true,
+      "createdAt": "2026-09-26T00:00:00Z",
+      "seoTitle": "VINTAGE SANTAL Extrait de Parfum — VELORÉ",
+      "seoDescription": "VINTAGE SANTAL by VELORÉ: Barrel-aged Mysore sandalwood and French oak.",
+      "sku": "VEL-VINTAGES-100",
+      "stock": 45,
+      "lowStockThreshold": 10,
+      "status": "published",
+      "updatedAt": "2026-09-26T00:00:00Z"
+    }
+  ],
+  "collections": [
+    {
+      "id": "new-arrivals",
+      "slug": "new-arrivals",
+      "title": "New Arrivals",
+      "subtitle": "Freshly Matured Harvests",
+      "shortDescription": "Our newest seasonal extraits and eau de parfums.",
+      "description": "Discover our newest seasonal releases, formulated with exceptional regional botanical distillations and pure extracts.",
+      "heroImage": "/images/products/collection-unisex.jpg",
+      "imageAlt": "VELORÉ New Arrivals Fragrance Collection",
+      "image": "/images/products/collection-unisex.jpg",
+      "sortOrder": 1,
+      "isFeatured": true,
+      "seoTitle": "New Perfume Arrivals — Luxury Fragrance | VELORÉ",
+      "seoDescription": "Explore new fragrance arrivals from VELORÉ Haute Parfumerie. Freshly matured extraits and eau de parfums.",
+      "relatedCollectionSlugs": [
+        "best-sellers",
+        "fresh",
+        "everyday-signature"
+      ]
+    },
+    {
+      "id": "best-sellers",
+      "slug": "best-sellers",
+      "title": "Best Sellers",
+      "subtitle": "Curated Connoisseur Favorites",
+      "shortDescription": "Our most revered and celebrated compositions.",
+      "description": "Our most revered and celebrated compositions, beloved for their timeless presence, layered complexity, and distinguished sillage.",
+      "heroImage": "/images/products/collection-men.jpg",
+      "imageAlt": "VELORÉ Best Sellers Curated Fragrances",
+      "image": "/images/products/collection-men.jpg",
+      "sortOrder": 2,
+      "isFeatured": true,
+      "seoTitle": "Best Selling Fragrances — Curated Favorites | VELORÉ",
+      "seoDescription": "Discover VELORÉ best selling perfumes, beloved by fragrance connoisseurs around the world.",
+      "relatedCollectionSlugs": [
+        "evening-occasion",
+        "woody",
+        "amber-oriental"
+      ]
+    },
+    {
+      "id": "woody",
+      "slug": "woody",
+      "title": "Woody Fragrances",
+      "subtitle": "Noble Woods & Resins",
+      "shortDescription": "Aged agarwood, charred oak, smoky cedar, and creamy Mysore sandalwood.",
+      "description": "Deep, noble resins, aged Cambodian agarwood, smoky Himalayan cedar, and creamy Mysore sandalwood sculpted into commanding signatures.",
+      "heroImage": "/images/products/product-bois-blanc.jpg",
+      "imageAlt": "VELORÉ Woody Fragrance Collection",
+      "image": "/images/products/product-bois-blanc.jpg",
+      "sortOrder": 3,
+      "isFeatured": true,
+      "seoTitle": "Woody Fragrances & Perfumes | VELORÉ",
+      "seoDescription": "Immerse yourself in VELORÉ woody perfumes featuring sandalwood, cedar, vetiver, and smoky agarwood.",
+      "relatedCollectionSlugs": [
+        "everyday-signature",
+        "amber-oriental",
+        "new-arrivals"
+      ]
+    },
+    {
+      "id": "floral",
+      "slug": "floral",
+      "title": "Floral Fragrances",
+      "subtitle": "Precious Petals & Orris",
+      "shortDescription": "Centifolia rose, Florentine iris butter, and nocturnal petals.",
+      "description": "Intoxicating centifolia rose, Florentine iris butter, and nocturnal white petals gathered at dusk for unmatched elegance.",
+      "heroImage": "/images/products/product-velvet-rose.jpg",
+      "imageAlt": "VELORÉ Floral Fragrance Collection",
+      "image": "/images/products/product-velvet-rose.jpg",
+      "sortOrder": 4,
+      "isFeatured": true,
+      "seoTitle": "Floral Perfumes & Extraits | VELORÉ",
+      "seoDescription": "Discover artisanal floral perfumes from VELORÉ crafted with Grasse rose, iris, and white floral absolutes.",
+      "relatedCollectionSlugs": [
+        "gifts",
+        "fresh",
+        "everyday-signature"
+      ]
+    },
+    {
+      "id": "fresh",
+      "slug": "fresh",
+      "title": "Fresh Fragrances",
+      "subtitle": "Solar Musks & Citrus",
+      "shortDescription": "Cold-pressed Calabrian citrus, sparkling Italian neroli, and crystalline solar musks.",
+      "description": "Cold-pressed Calabrian citrus, sparkling Italian neroli, and crystalline solar musks crafted for uplifting, radiant distinction.",
+      "heroImage": "/images/products/product-eclat.jpg",
+      "imageAlt": "VELORÉ Fresh Fragrance Collection",
+      "image": "/images/products/product-eclat.jpg",
+      "sortOrder": 5,
+      "isFeatured": true,
+      "seoTitle": "Fresh Citrus & Aquatic Fragrances | VELORÉ",
+      "seoDescription": "Explore luminous fresh fragrances from VELORÉ with vibrant citrus, crisp neroli, and crystalline solar musks.",
+      "relatedCollectionSlugs": [
+        "new-arrivals",
+        "everyday-signature",
+        "floral"
+      ]
+    },
+    {
+      "id": "amber-oriental",
+      "slug": "amber-oriental",
+      "title": "Amber & Oriental",
+      "subtitle": "Golden Resins & Vanilla",
+      "shortDescription": "Sumptuous golden labdanum, rare balsamic benzoin, and warm bourbon vanilla.",
+      "description": "Sumptuous golden labdanum, rare balsamic benzoin tears, and warm bourbon vanilla for an intimate, magnetic trail.",
+      "heroImage": "/images/products/product-amber07.jpg",
+      "imageAlt": "VELORÉ Amber & Oriental Fragrance Collection",
+      "image": "/images/products/product-amber07.jpg",
+      "sortOrder": 6,
+      "isFeatured": true,
+      "seoTitle": "Amber & Oriental Perfumes | VELORÉ",
+      "seoDescription": "Discover enveloping amber and oriental fragrances from VELORÉ with rich balsamic resins and sweet vanilla.",
+      "relatedCollectionSlugs": [
+        "evening-occasion",
+        "woody",
+        "best-sellers"
+      ]
+    },
+    {
+      "id": "everyday-signature",
+      "slug": "everyday-signature",
+      "title": "Everyday Signature",
+      "subtitle": "Daily Sophistication",
+      "shortDescription": "Refined, versatile compositions crafted to elevate daily rituals and professional presence.",
+      "description": "Refined, versatile compositions crafted to seamlessly elevate daily rituals and professional presence with understated confidence.",
+      "heroImage": "/images/products/collection-women.jpg",
+      "imageAlt": "VELORÉ Everyday Signature Collection",
+      "image": "/images/products/collection-women.jpg",
+      "sortOrder": 7,
+      "isFeatured": true,
+      "seoTitle": "Everyday Signature Perfumes | VELORÉ",
+      "seoDescription": "Refined daily perfumes for work, leisure, and daily elegance. Find your everyday signature at VELORÉ.",
+      "relatedCollectionSlugs": [
+        "woody",
+        "fresh",
+        "best-sellers"
+      ]
+    },
+    {
+      "id": "evening-occasion",
+      "slug": "evening-occasion",
+      "title": "Evening & Occasion",
+      "subtitle": "Midnight Magnetism",
+      "shortDescription": "Intense, captivating extraits formulated for formal gatherings, galas, and intimate soirees.",
+      "description": "Intense, captivating extraits formulated for memorable formal gatherings, galas, and intimate soirees that command attention.",
+      "heroImage": "/images/products/brand-story-sculptural.jpg",
+      "imageAlt": "VELORÉ Evening & Occasion Collection",
+      "image": "/images/products/brand-story-sculptural.jpg",
+      "sortOrder": 8,
+      "isFeatured": true,
+      "seoTitle": "Evening & Special Occasion Perfumes | VELORÉ",
+      "seoDescription": "Command the night with VELORÉ evening extraits. Deep, sensual, and unforgettable formulations for special occasions.",
+      "relatedCollectionSlugs": [
+        "amber-oriental",
+        "woody",
+        "best-sellers"
+      ]
+    },
+    {
+      "id": "gifts",
+      "slug": "gifts",
+      "title": "Gifts & Coffrets",
+      "subtitle": "Curated Sets & Discovery",
+      "shortDescription": "Thoughtful fragrance gifts for meaningful moments and memorable occasions.",
+      "description": "Thoughtful fragrance gifts and curated discovery coffrets crafted for meaningful moments and connoisseur gifting.",
+      "heroImage": "/images/products/collection-exclusive.jpg",
+      "imageAlt": "VELORÉ Fragrance Gifts & Coffrets",
+      "image": "/images/products/collection-exclusive.jpg",
+      "sortOrder": 9,
+      "isFeatured": true,
+      "seoTitle": "Luxury Fragrance Gifts & Discovery Coffrets | VELORÉ",
+      "seoDescription": "Exquisite perfume gifts and discovery sets from VELORÉ. Perfect for discerning fragrance lovers.",
+      "relatedCollectionSlugs": [
+        "best-sellers",
+        "floral",
+        "new-arrivals"
+      ]
+    }
+  ],
+  "orders": [
+    {
+      "id": "VEL-189342",
+      "createdAt": "2026-10-18T09:25:43.772Z",
+      "customer": {
+        "email": "e2e.tester.1792315542447@velore-test.com",
+        "firstName": "Victoria",
+        "lastName": "Sinclair",
+        "phone": "+1 555-0199"
+      },
+      "shippingAddress": {
+        "street": "10 Avenue Montaigne",
+        "city": "Paris",
+        "state": "Ile-de-France",
+        "postalCode": "75008",
+        "country": "France"
+      },
+      "shippingMethod": {
+        "id": "standard",
+        "name": "Artisan Complimentary Courier Dispatch",
+        "price": 0,
+        "estimatedDelivery": "3–5 business days"
+      },
+      "paymentMethod": "Demo Card (ending in 4242)",
+      "samples": [
+        "Santal Précieux (2ml Extrait)",
+        "Rose Nocturne (2ml Extrait)"
+      ],
+      "items": [
+        {
+          "id": "item-e2e-1",
+          "productId": "velore-noir-01",
+          "name": "NOIR",
+          "slug": "noir",
+          "size": "100ml Extrait de Parfum",
+          "price": 310,
+          "quantity": 1,
+          "image": "/images/products/product-noir.jpg"
+        }
+      ],
+      "subtotal": 310,
+      "shipping": 0,
+      "tax": 24.8,
+      "discount": 0,
+      "total": 334.8,
+      "status": "Preparing Dispatch"
+    },
+    {
+      "id": "VEL-873858",
+      "createdAt": "2026-10-18T07:43:55.599Z",
+      "customer": {
+        "email": "e2e.tester.1792309434523@velore-test.com",
+        "firstName": "Victoria",
+        "lastName": "Sinclair",
+        "phone": "+1 555-0199"
+      },
+      "shippingAddress": {
+        "street": "10 Avenue Montaigne",
+        "city": "Paris",
+        "state": "Ile-de-France",
+        "postalCode": "75008",
+        "country": "France"
+      },
+      "shippingMethod": {
+        "id": "standard",
+        "name": "Artisan Complimentary Courier Dispatch",
+        "price": 0,
+        "estimatedDelivery": "3–5 business days"
+      },
+      "paymentMethod": "Demo Card (ending in 4242)",
+      "samples": [
+        "Santal Précieux (2ml Extrait)",
+        "Rose Nocturne (2ml Extrait)"
+      ],
+      "items": [
+        {
+          "id": "item-e2e-1",
+          "productId": "velore-noir-01",
+          "name": "NOIR",
+          "slug": "noir",
+          "size": "100ml Extrait de Parfum",
+          "price": 310,
+          "quantity": 1,
+          "image": "/images/products/product-noir.jpg"
+        }
+      ],
+      "subtotal": 310,
+      "shipping": 0,
+      "tax": 24.8,
+      "discount": 0,
+      "total": 334.8,
+      "status": "Preparing Dispatch"
+    },
+    {
+      "id": "VEL-373521",
+      "createdAt": "2026-10-18T07:20:56.910Z",
+      "customer": {
+        "email": "e2e.tester.1792308055641@velore-test.com",
+        "firstName": "Victoria",
+        "lastName": "Sinclair",
+        "phone": "+1 555-0199"
+      },
+      "shippingAddress": {
+        "street": "10 Avenue Montaigne",
+        "city": "Paris",
+        "state": "Ile-de-France",
+        "postalCode": "75008",
+        "country": "France"
+      },
+      "shippingMethod": {
+        "id": "standard",
+        "name": "Artisan Complimentary Courier Dispatch",
+        "price": 0,
+        "estimatedDelivery": "3–5 business days"
+      },
+      "paymentMethod": "Demo Card (ending in 4242)",
+      "samples": [
+        "Santal Précieux (2ml Extrait)",
+        "Rose Nocturne (2ml Extrait)"
+      ],
+      "items": [
+        {
+          "id": "item-e2e-1",
+          "productId": "velore-noir-01",
+          "name": "NOIR",
+          "slug": "noir",
+          "size": "100ml Extrait de Parfum",
+          "price": 310,
+          "quantity": 1,
+          "image": "/images/products/product-noir.jpg"
+        }
+      ],
+      "subtotal": 310,
+      "shipping": 0,
+      "tax": 24.8,
+      "discount": 0,
+      "total": 334.8,
+      "status": "Preparing Dispatch"
+    },
+    {
+      "id": "VEL-NO-COUPON-1792281090712",
+      "customer": {
+        "email": "guest_1792281090712@velore.com",
+        "firstName": "Pure",
+        "lastName": "Guest",
+        "phone": "555"
+      },
+      "shippingAddress": {
+        "street": "5th Avenue",
+        "city": "NY",
+        "state": "NY",
+        "postalCode": "10001",
+        "country": "US"
+      },
+      "items": [
+        {
+          "id": "item-1792281091514-g4zy",
+          "productId": "velore-noir-01",
+          "name": "NOIR",
+          "slug": "noir",
+          "size": "100ml Extrait de Parfum",
+          "price": 310,
+          "quantity": 1,
+          "image": "/images/products/product-noir.jpg"
+        }
+      ],
+      "shippingMethod": {
+        "id": "standard",
+        "price": 0
+      },
+      "createdAt": "2026-10-17T23:51:31.515Z",
+      "subtotal": 310,
+      "shipping": 0,
+      "tax": 24.8,
+      "discount": 0,
+      "total": 334.8,
+      "status": "Preparing Dispatch"
+    },
+    {
+      "id": "VEL-IDEMP-1792281090712",
+      "customer": {
+        "email": "idemp_1792281090712@velore.com",
+        "firstName": "Idemp",
+        "lastName": "Test",
+        "phone": "555"
+      },
+      "shippingAddress": {
+        "street": "100 Park Ave",
+        "city": "NY",
+        "state": "NY",
+        "postalCode": "10017",
+        "country": "US"
+      },
+      "items": [
+        {
+          "id": "item-1792281091458-yoxb",
+          "productId": "velore-noir-01",
+          "name": "NOIR",
+          "slug": "noir",
+          "size": "100ml Extrait de Parfum",
+          "price": 310,
+          "quantity": 1,
+          "image": "/images/products/product-noir.jpg"
+        }
+      ],
+      "couponCode": "WELCOME50",
+      "shippingMethod": {
+        "id": "standard",
+        "price": 0
+      },
+      "createdAt": "2026-10-17T23:51:31.458Z",
+      "subtotal": 310,
+      "shipping": 0,
+      "tax": 20.8,
+      "discount": 50,
+      "total": 280.8,
+      "couponId": "cpn-welcome50",
+      "couponName": "Connoisseur Welcome - $50 Off",
+      "status": "Preparing Dispatch"
+    },
+    {
+      "id": "VEL-C1-1792281090712",
+      "customer": {
+        "email": "concur1_1792281090712@velore.com",
+        "firstName": "User",
+        "lastName": "Concurrent",
+        "phone": "555"
+      },
+      "shippingAddress": {
+        "street": "1 St",
+        "city": "London",
+        "state": "LDN",
+        "postalCode": "W1",
+        "country": "UK"
+      },
+      "items": [
+        {
+          "id": "item-1792281091427-ulgs",
+          "productId": "velore-noir-01",
+          "name": "NOIR",
+          "slug": "noir",
+          "size": "100ml Extrait de Parfum",
+          "price": 310,
+          "quantity": 1,
+          "image": "/images/products/product-noir.jpg"
+        }
+      ],
+      "couponCode": "RACE0712",
+      "shippingMethod": {
+        "id": "standard",
+        "price": 0
+      },
+      "createdAt": "2026-10-17T23:51:31.427Z",
+      "subtotal": 310,
+      "shipping": 0,
+      "tax": 24,
+      "discount": 10,
+      "total": 324,
+      "couponId": "cpn-1792281091410-iaxe",
+      "couponName": "Concurrency Test Coupon",
+      "status": "Preparing Dispatch"
+    },
+    {
+      "id": "VEL-DISCOUNT-TAMPER-1792281090712",
+      "customer": {
+        "email": "discounttest_1792281090712@velore.com",
+        "firstName": "Tester",
+        "lastName": "Discount",
+        "phone": "555"
+      },
+      "shippingAddress": {
+        "street": "10 Avenue Montaigne",
+        "city": "Paris",
+        "state": "IDF",
+        "postalCode": "75008",
+        "country": "France"
+      },
+      "items": [
+        {
+          "id": "item-1792281091380-tvbj",
+          "productId": "velore-noir-01",
+          "name": "NOIR",
+          "slug": "noir",
+          "size": "100ml Extrait de Parfum",
+          "price": 310,
+          "quantity": 1,
+          "image": "/images/products/product-noir.jpg"
+        }
+      ],
+      "couponCode": "VELORE10",
+      "discount": 31,
+      "shippingMethod": {
+        "id": "standard",
+        "price": 0
+      },
+      "createdAt": "2026-10-17T23:51:31.380Z",
+      "subtotal": 310,
+      "shipping": 0,
+      "tax": 22.32,
+      "total": 301.32,
+      "couponId": "cpn-velore10",
+      "couponName": "Artisan Welcome - 10% Privilege",
+      "status": "Preparing Dispatch"
+    },
+    {
+      "id": "VEL-PRICE-TAMPER-1792281090712",
+      "customer": {
+        "email": "honest_1792281090712@velore.com",
+        "firstName": "Honest",
+        "lastName": "Client",
+        "phone": "555"
+      },
+      "shippingAddress": {
+        "street": "1 Rue de la Paix",
+        "city": "Paris",
+        "state": "IDF",
+        "postalCode": "75001",
+        "country": "France"
+      },
+      "items": [
+        {
+          "id": "item-1792281091367-fy8d",
+          "productId": "velore-noir-01",
+          "name": "NOIR",
+          "slug": "noir",
+          "size": "100ml Extrait de Parfum",
+          "price": 310,
+          "quantity": 1,
+          "image": "/images/products/product-noir.jpg"
+        }
+      ],
+      "shippingMethod": {
+        "id": "standard",
+        "price": 0
+      },
+      "createdAt": "2026-10-17T23:51:31.367Z",
+      "subtotal": 310,
+      "shipping": 0,
+      "tax": 24.8,
+      "discount": 0,
+      "total": 334.8,
+      "status": "Preparing Dispatch"
+    },
+    {
+      "id": "VEL-TEST-1792281090712",
+      "customer": {
+        "email": "tester_1792281090712_1@velore.com",
+        "firstName": "Test",
+        "lastName": "One",
+        "phone": "123"
+      },
+      "shippingAddress": {
+        "street": "123 Test St",
+        "city": "Paris",
+        "state": "IDF",
+        "postalCode": "75001",
+        "country": "France"
+      },
+      "items": [
+        {
+          "id": "item-1792281091295-ygz1",
+          "productId": "velore-noir-01",
+          "name": "NOIR",
+          "slug": "noir",
+          "size": "100ml Extrait de Parfum",
+          "price": 310,
+          "quantity": 1,
+          "image": "/images/products/product-noir.jpg"
+        }
+      ],
+      "couponCode": "ONE0712",
+      "shippingMethod": {
+        "id": "standard",
+        "price": 0
+      },
+      "createdAt": "2026-10-17T23:51:31.295Z",
+      "subtotal": 310,
+      "shipping": 0,
+      "tax": 22.8,
+      "discount": 25,
+      "total": 307.8,
+      "couponId": "cpn-1792281091280-hd7g",
+      "couponName": "Single Use Promotion",
+      "status": "Preparing Dispatch"
+    },
+    {
+      "id": "VEL-DEBUG-15",
+      "customer": {
+        "email": "unique15@velore.com",
+        "firstName": "T",
+        "lastName": "D",
+        "phone": "555"
+      },
+      "shippingAddress": {
+        "street": "10 Ave",
+        "city": "Paris",
+        "state": "IDF",
+        "postalCode": "75008",
+        "country": "France"
+      },
+      "items": [
+        {
+          "id": "item-1792281040209-3bff",
+          "productId": "velore-noir-01",
+          "name": "NOIR",
+          "slug": "noir",
+          "size": "100ml Extrait de Parfum",
+          "price": 310,
+          "quantity": 1,
+          "image": "/images/products/product-noir.jpg"
+        }
+      ],
+      "couponCode": "VELORE10",
+      "discount": 31,
+      "shippingMethod": {
+        "id": "standard",
+        "price": 0
+      },
+      "createdAt": "2026-10-17T23:50:40.209Z",
+      "subtotal": 310,
+      "shipping": 0,
+      "tax": 22.32,
+      "total": 301.32,
+      "couponId": "cpn-velore10",
+      "couponName": "Artisan Welcome - 10% Privilege",
+      "status": "Preparing Dispatch"
+    },
+    {
+      "id": "VEL-NO-COUPON-1792281023504",
+      "customer": {
+        "email": "guest@velore.com",
+        "firstName": "Pure",
+        "lastName": "Guest",
+        "phone": "555"
+      },
+      "shippingAddress": {
+        "street": "5th Avenue",
+        "city": "NY",
+        "state": "NY",
+        "postalCode": "10001",
+        "country": "US"
+      },
+      "items": [
+        {
+          "id": "item-1792281023512-fer6",
+          "productId": "velore-noir-01",
+          "name": "NOIR",
+          "slug": "noir",
+          "size": "100ml Extrait de Parfum",
+          "price": 310,
+          "quantity": 1,
+          "image": "/images/products/product-noir.jpg"
+        }
+      ],
+      "shippingMethod": {
+        "id": "standard",
+        "price": 0
+      },
+      "createdAt": "2026-10-17T23:50:23.512Z",
+      "subtotal": 310,
+      "shipping": 0,
+      "tax": 24.8,
+      "discount": 0,
+      "total": 334.8,
+      "status": "Preparing Dispatch"
+    },
+    {
+      "id": "VEL-C1-1792281023345",
+      "customer": {
+        "email": "concur1@velore.com",
+        "firstName": "User",
+        "lastName": "Concurrent",
+        "phone": "555"
+      },
+      "shippingAddress": {
+        "street": "1 St",
+        "city": "London",
+        "state": "LDN",
+        "postalCode": "W1",
+        "country": "UK"
+      },
+      "items": [
+        {
+          "id": "item-1792281023365-jpk3",
+          "productId": "velore-noir-01",
+          "name": "NOIR",
+          "slug": "noir",
+          "size": "100ml Extrait de Parfum",
+          "price": 310,
+          "quantity": 1,
+          "image": "/images/products/product-noir.jpg"
+        }
+      ],
+      "couponCode": "RACE3326",
+      "shippingMethod": {
+        "id": "standard",
+        "price": 0
+      },
+      "createdAt": "2026-10-17T23:50:23.365Z",
+      "subtotal": 310,
+      "shipping": 0,
+      "tax": 24,
+      "discount": 10,
+      "total": 324,
+      "couponId": "cpn-1792281023335-0yjp",
+      "couponName": "Concurrency Test Coupon",
+      "status": "Preparing Dispatch"
+    },
+    {
+      "id": "VEL-PRICE-TAMPER-1792281023242",
+      "customer": {
+        "email": "honest@velore.com",
+        "firstName": "Honest",
+        "lastName": "Client",
+        "phone": "555"
+      },
+      "shippingAddress": {
+        "street": "1 Rue de la Paix",
+        "city": "Paris",
+        "state": "IDF",
+        "postalCode": "75001",
+        "country": "France"
+      },
+      "items": [
+        {
+          "id": "item-1792281023265-jdw8",
+          "productId": "velore-noir-01",
+          "name": "NOIR",
+          "slug": "noir",
+          "size": "100ml Extrait de Parfum",
+          "price": 310,
+          "quantity": 1,
+          "image": "/images/products/product-noir.jpg"
+        }
+      ],
+      "shippingMethod": {
+        "id": "standard",
+        "price": 0
+      },
+      "createdAt": "2026-10-17T23:50:23.265Z",
+      "subtotal": 310,
+      "shipping": 0,
+      "tax": 24.8,
+      "discount": 0,
+      "total": 334.8,
+      "status": "Preparing Dispatch"
+    },
+    {
+      "id": "VEL-NO-COUPON-1792280846835",
+      "customer": {
+        "email": "guest@velore.com",
+        "firstName": "Pure",
+        "lastName": "Guest",
+        "phone": "555"
+      },
+      "shippingAddress": {
+        "street": "5th Avenue",
+        "city": "NY",
+        "state": "NY",
+        "postalCode": "10001",
+        "country": "US"
+      },
+      "items": [
+        {
+          "id": "item-1792280846846-op4p",
+          "productId": "velore-noir-01",
+          "name": "NOIR",
+          "slug": "noir",
+          "size": "100ml Extrait de Parfum",
+          "price": 310,
+          "quantity": 1,
+          "image": "/images/products/product-noir.jpg"
+        }
+      ],
+      "shippingMethod": {
+        "id": "standard",
+        "price": 0
+      },
+      "createdAt": "2026-10-17T23:47:26.846Z",
+      "subtotal": 310,
+      "shipping": 0,
+      "tax": 24.8,
+      "discount": 0,
+      "total": 334.8,
+      "status": "Preparing Dispatch"
+    },
+    {
+      "id": "VEL-IDEMP-1792280846664",
+      "customer": {
+        "email": "idemp@velore.com",
+        "firstName": "Idemp",
+        "lastName": "Test",
+        "phone": "555"
+      },
+      "shippingAddress": {
+        "street": "100 Park Ave",
+        "city": "NY",
+        "state": "NY",
+        "postalCode": "10017",
+        "country": "US"
+      },
+      "items": [
+        {
+          "id": "item-1792280846680-8j40",
+          "productId": "velore-noir-01",
+          "name": "NOIR",
+          "slug": "noir",
+          "size": "100ml Extrait de Parfum",
+          "price": 310,
+          "quantity": 1,
+          "image": "/images/products/product-noir.jpg"
+        }
+      ],
+      "couponCode": "WELCOME50",
+      "shippingMethod": {
+        "id": "standard",
+        "price": 0
+      },
+      "createdAt": "2026-10-17T23:47:26.681Z",
+      "subtotal": 310,
+      "shipping": 0,
+      "tax": 20.8,
+      "discount": 50,
+      "total": 280.8,
+      "couponId": "cpn-welcome50",
+      "couponName": "Connoisseur Welcome - $50 Off",
+      "status": "Preparing Dispatch"
+    },
+    {
+      "id": "VEL-C1-1792280846569",
+      "customer": {
+        "email": "concur1@velore.com",
+        "firstName": "User",
+        "lastName": "Concurrent",
+        "phone": "555"
+      },
+      "shippingAddress": {
+        "street": "1 St",
+        "city": "London",
+        "state": "LDN",
+        "postalCode": "W1",
+        "country": "UK"
+      },
+      "items": [
+        {
+          "id": "item-1792280846607-fsnt",
+          "productId": "velore-noir-01",
+          "name": "NOIR",
+          "slug": "noir",
+          "size": "100ml Extrait de Parfum",
+          "price": 310,
+          "quantity": 1,
+          "image": "/images/products/product-noir.jpg"
+        }
+      ],
+      "couponCode": "RACE6531",
+      "shippingMethod": {
+        "id": "standard",
+        "price": 0
+      },
+      "createdAt": "2026-10-17T23:47:26.608Z",
+      "subtotal": 310,
+      "shipping": 0,
+      "tax": 24,
+      "discount": 10,
+      "total": 324,
+      "couponId": "cpn-1792280846546-xkej",
+      "couponName": "Concurrency Test Coupon",
+      "status": "Preparing Dispatch"
+    },
+    {
+      "id": "VEL-DISCOUNT-TAMPER-1792280846401",
+      "customer": {
+        "email": "discounttest@velore.com",
+        "firstName": "Tester",
+        "lastName": "Discount",
+        "phone": "555"
+      },
+      "shippingAddress": {
+        "street": "10 Avenue Montaigne",
+        "city": "Paris",
+        "state": "IDF",
+        "postalCode": "75008",
+        "country": "France"
+      },
+      "items": [
+        {
+          "id": "item-1792280846430-meaf",
+          "productId": "velore-noir-01",
+          "name": "NOIR",
+          "slug": "noir",
+          "size": "100ml Extrait de Parfum",
+          "price": 310,
+          "quantity": 1,
+          "image": "/images/products/product-noir.jpg"
+        }
+      ],
+      "couponCode": "VELORE10",
+      "discount": 31,
+      "shippingMethod": {
+        "id": "standard",
+        "price": 0
+      },
+      "createdAt": "2026-10-17T23:47:26.430Z",
+      "subtotal": 310,
+      "shipping": 0,
+      "tax": 22.32,
+      "total": 301.32,
+      "couponId": "cpn-velore10",
+      "couponName": "Artisan Welcome - 10% Privilege",
+      "status": "Preparing Dispatch"
+    },
+    {
+      "id": "VEL-PRICE-TAMPER-1792280846377",
+      "customer": {
+        "email": "honest@velore.com",
+        "firstName": "Honest",
+        "lastName": "Client",
+        "phone": "555"
+      },
+      "shippingAddress": {
+        "street": "1 Rue de la Paix",
+        "city": "Paris",
+        "state": "IDF",
+        "postalCode": "75001",
+        "country": "France"
+      },
+      "items": [
+        {
+          "id": "item-1792280846390-yyyf",
+          "productId": "velore-noir-01",
+          "name": "NOIR",
+          "slug": "noir",
+          "size": "100ml Extrait de Parfum",
+          "price": 310,
+          "quantity": 1,
+          "image": "/images/products/product-noir.jpg"
+        }
+      ],
+      "shippingMethod": {
+        "id": "standard",
+        "price": 0
+      },
+      "createdAt": "2026-10-17T23:47:26.391Z",
+      "subtotal": 310,
+      "shipping": 0,
+      "tax": 24.8,
+      "discount": 0,
+      "total": 334.8,
+      "status": "Preparing Dispatch"
+    },
+    {
+      "id": "VEL-TEST-1792280846046",
+      "customer": {
+        "email": "tester1@velore.com",
+        "firstName": "Test",
+        "lastName": "One",
+        "phone": "123"
+      },
+      "shippingAddress": {
+        "street": "123 Test St",
+        "city": "Paris",
+        "state": "IDF",
+        "postalCode": "75001",
+        "country": "France"
+      },
+      "items": [
+        {
+          "id": "item-1792280846071-cgwr",
+          "productId": "velore-noir-01",
+          "name": "NOIR",
+          "slug": "noir",
+          "size": "100ml Extrait de Parfum",
+          "price": 310,
+          "quantity": 1,
+          "image": "/images/products/product-noir.jpg"
+        }
+      ],
+      "couponCode": "LIMITONE",
+      "shippingMethod": {
+        "id": "standard",
+        "price": 0
+      },
+      "createdAt": "2026-10-17T23:47:26.072Z",
+      "subtotal": 310,
+      "shipping": 0,
+      "tax": 22.8,
+      "discount": 25,
+      "total": 307.8,
+      "couponId": "cpn-1792280846028-x01m",
+      "couponName": "Single Use Promotion",
+      "status": "Preparing Dispatch"
+    },
+    {
+      "id": "VEL-892410",
+      "createdAt": "2026-09-15T14:30:00Z",
+      "customer": {
+        "email": "client@velore.com",
+        "firstName": "Eleanor",
+        "lastName": "Vance",
+        "phone": "+1 (555) 234-8901"
+      },
+      "shippingAddress": {
+        "street": "740 Park Avenue",
+        "apartment": "Penthouse B",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021",
+        "country": "United States"
+      },
+      "shippingMethod": {
+        "id": "express",
+        "name": "Artisan Courier White-Glove Dispatch",
+        "price": 0,
+        "estimatedDelivery": "Delivered on September 18, 2026"
+      },
+      "paymentMethod": "Visa ending in •••• 4242",
+      "samples": [
+        "Santal Précieux (2ml)",
+        "Rose Nocturne (2ml)"
+      ],
+      "giftNote": "For Eleanor, with heartfelt admiration.",
+      "items": [
+        {
+          "id": "velore-noir-01-100ml",
+          "productId": "velore-noir-01",
+          "name": "VELORÉ NOIR",
+          "slug": "noir",
+          "size": "100ml Extrait de Parfum",
+          "price": 320,
+          "quantity": 1,
+          "image": "/images/products/product-noir.jpg"
+        },
+        {
+          "id": "velore-lumiere-03-100ml",
+          "productId": "velore-lumiere-03",
+          "name": "LUMIÈRE D'OR",
+          "slug": "lumiere",
+          "size": "100ml Extrait de Parfum",
+          "price": 285,
+          "quantity": 1,
+          "image": "/images/products/product-lumiere.jpg"
+        }
+      ],
+      "subtotal": 605,
+      "shipping": 0,
+      "tax": 44.75,
+      "discount": 45.6,
+      "total": 604.15,
+      "status": "Delivered",
+      "couponCode": "VELORE10",
+      "couponName": "Artisan Welcome - 10% Privilege"
+    },
+    {
+      "id": "VEL-731942",
+      "createdAt": "2026-10-02T10:15:00Z",
+      "customer": {
+        "email": "client@velore.com",
+        "firstName": "Eleanor",
+        "lastName": "Vance",
+        "phone": "+1 (555) 234-8901"
+      },
+      "shippingAddress": {
+        "street": "740 Park Avenue",
+        "apartment": "Penthouse B",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021",
+        "country": "United States"
+      },
+      "shippingMethod": {
+        "id": "express",
+        "name": "Artisan Courier White-Glove Dispatch",
+        "price": 0,
+        "estimatedDelivery": "Delivered on October 05, 2026"
+      },
+      "paymentMethod": "Mastercard ending in •••• 8821",
+      "samples": [
+        "Fleur Blanche (2ml)",
+        "Cuir Majestic (2ml)"
+      ],
+      "items": [
+        {
+          "id": "velore-oud-04-100ml",
+          "productId": "velore-oud-04",
+          "name": "OUD IMPERIAL",
+          "slug": "oud-imperial",
+          "size": "100ml Extrait de Parfum",
+          "price": 380,
+          "quantity": 1,
+          "image": "/images/products/product-oud01.jpg"
+        }
+      ],
+      "subtotal": 380,
+      "shipping": 0,
+      "tax": 30.4,
+      "discount": 0,
+      "total": 410.4,
+      "status": "Delivered"
+    }
+  ],
+  "inventoryHistory": [
+    {
+      "id": "inv-1792315543772-jzfg",
+      "productId": "velore-noir-01",
+      "productName": "NOIR",
+      "previousStock": 7,
+      "newStock": 6,
+      "adjustment": -1,
+      "reason": "Customer Order Placement: VEL-189342",
+      "timestamp": "2026-10-18T09:25:43.772Z",
+      "adminEmail": "system@velore.com"
+    },
+    {
+      "id": "inv-1792309435599-giln",
+      "productId": "velore-noir-01",
+      "productName": "NOIR",
+      "previousStock": 8,
+      "newStock": 7,
+      "adjustment": -1,
+      "reason": "Customer Order Placement: VEL-873858",
+      "timestamp": "2026-10-18T07:43:55.599Z",
+      "adminEmail": "system@velore.com"
+    },
+    {
+      "id": "inv-1792308056910-hwex",
+      "productId": "velore-noir-01",
+      "productName": "NOIR",
+      "previousStock": 9,
+      "newStock": 8,
+      "adjustment": -1,
+      "reason": "Customer Order Placement: VEL-373521",
+      "timestamp": "2026-10-18T07:20:56.910Z",
+      "adminEmail": "system@velore.com"
+    },
+    {
+      "id": "inv-1792281091515-loq3",
+      "productId": "velore-noir-01",
+      "productName": "NOIR",
+      "previousStock": 10,
+      "newStock": 9,
+      "adjustment": -1,
+      "reason": "Customer Order Placement: VEL-NO-COUPON-1792281090712",
+      "timestamp": "2026-10-17T23:51:31.515Z",
+      "adminEmail": "system@velore.com"
+    },
+    {
+      "id": "inv-1792281091461-9a3w",
+      "productId": "velore-noir-01",
+      "productName": "NOIR",
+      "previousStock": 11,
+      "newStock": 10,
+      "adjustment": -1,
+      "reason": "Customer Order Placement: VEL-IDEMP-1792281090712",
+      "timestamp": "2026-10-17T23:51:31.458Z",
+      "adminEmail": "system@velore.com"
+    },
+    {
+      "id": "inv-1792281091430-t67h",
+      "productId": "velore-noir-01",
+      "productName": "NOIR",
+      "previousStock": 12,
+      "newStock": 11,
+      "adjustment": -1,
+      "reason": "Customer Order Placement: VEL-C1-1792281090712",
+      "timestamp": "2026-10-17T23:51:31.427Z",
+      "adminEmail": "system@velore.com"
+    },
+    {
+      "id": "inv-1792281091382-3wyd",
+      "productId": "velore-noir-01",
+      "productName": "NOIR",
+      "previousStock": 13,
+      "newStock": 12,
+      "adjustment": -1,
+      "reason": "Customer Order Placement: VEL-DISCOUNT-TAMPER-1792281090712",
+      "timestamp": "2026-10-17T23:51:31.380Z",
+      "adminEmail": "system@velore.com"
+    },
+    {
+      "id": "inv-1792281091367-x2yt",
+      "productId": "velore-noir-01",
+      "productName": "NOIR",
+      "previousStock": 14,
+      "newStock": 13,
+      "adjustment": -1,
+      "reason": "Customer Order Placement: VEL-PRICE-TAMPER-1792281090712",
+      "timestamp": "2026-10-17T23:51:31.367Z",
+      "adminEmail": "system@velore.com"
+    },
+    {
+      "id": "inv-1792281091300-zsds",
+      "productId": "velore-noir-01",
+      "productName": "NOIR",
+      "previousStock": 15,
+      "newStock": 14,
+      "adjustment": -1,
+      "reason": "Customer Order Placement: VEL-TEST-1792281090712",
+      "timestamp": "2026-10-17T23:51:31.295Z",
+      "adminEmail": "system@velore.com"
+    },
+    {
+      "id": "inv-1792281040214-ca6w",
+      "productId": "velore-noir-01",
+      "productName": "NOIR",
+      "previousStock": 16,
+      "newStock": 15,
+      "adjustment": -1,
+      "reason": "Customer Order Placement: VEL-DEBUG-15",
+      "timestamp": "2026-10-17T23:50:40.209Z",
+      "adminEmail": "system@velore.com"
+    },
+    {
+      "id": "inv-1792281023512-6s0o",
+      "productId": "velore-noir-01",
+      "productName": "NOIR",
+      "previousStock": 17,
+      "newStock": 16,
+      "adjustment": -1,
+      "reason": "Customer Order Placement: VEL-NO-COUPON-1792281023504",
+      "timestamp": "2026-10-17T23:50:23.512Z",
+      "adminEmail": "system@velore.com"
+    },
+    {
+      "id": "inv-1792281023369-m33o",
+      "productId": "velore-noir-01",
+      "productName": "NOIR",
+      "previousStock": 18,
+      "newStock": 17,
+      "adjustment": -1,
+      "reason": "Customer Order Placement: VEL-C1-1792281023345",
+      "timestamp": "2026-10-17T23:50:23.365Z",
+      "adminEmail": "system@velore.com"
+    },
+    {
+      "id": "inv-1792281023266-hopc",
+      "productId": "velore-noir-01",
+      "productName": "NOIR",
+      "previousStock": 19,
+      "newStock": 18,
+      "adjustment": -1,
+      "reason": "Customer Order Placement: VEL-PRICE-TAMPER-1792281023242",
+      "timestamp": "2026-10-17T23:50:23.265Z",
+      "adminEmail": "system@velore.com"
+    },
+    {
+      "id": "inv-1792280846846-6iaf",
+      "productId": "velore-noir-01",
+      "productName": "NOIR",
+      "previousStock": 20,
+      "newStock": 19,
+      "adjustment": -1,
+      "reason": "Customer Order Placement: VEL-NO-COUPON-1792280846835",
+      "timestamp": "2026-10-17T23:47:26.846Z",
+      "adminEmail": "system@velore.com"
+    },
+    {
+      "id": "inv-1792280846685-tfkd",
+      "productId": "velore-noir-01",
+      "productName": "NOIR",
+      "previousStock": 21,
+      "newStock": 20,
+      "adjustment": -1,
+      "reason": "Customer Order Placement: VEL-IDEMP-1792280846664",
+      "timestamp": "2026-10-17T23:47:26.681Z",
+      "adminEmail": "system@velore.com"
+    },
+    {
+      "id": "inv-1792280846616-ockj",
+      "productId": "velore-noir-01",
+      "productName": "NOIR",
+      "previousStock": 22,
+      "newStock": 21,
+      "adjustment": -1,
+      "reason": "Customer Order Placement: VEL-C1-1792280846569",
+      "timestamp": "2026-10-17T23:47:26.608Z",
+      "adminEmail": "system@velore.com"
+    },
+    {
+      "id": "inv-1792280846434-6anq",
+      "productId": "velore-noir-01",
+      "productName": "NOIR",
+      "previousStock": 23,
+      "newStock": 22,
+      "adjustment": -1,
+      "reason": "Customer Order Placement: VEL-DISCOUNT-TAMPER-1792280846401",
+      "timestamp": "2026-10-17T23:47:26.430Z",
+      "adminEmail": "system@velore.com"
+    },
+    {
+      "id": "inv-1792280846391-my17",
+      "productId": "velore-noir-01",
+      "productName": "NOIR",
+      "previousStock": 24,
+      "newStock": 23,
+      "adjustment": -1,
+      "reason": "Customer Order Placement: VEL-PRICE-TAMPER-1792280846377",
+      "timestamp": "2026-10-17T23:47:26.391Z",
+      "adminEmail": "system@velore.com"
+    },
+    {
+      "id": "inv-1792280846088-g8x0",
+      "productId": "velore-noir-01",
+      "productName": "NOIR",
+      "previousStock": 25,
+      "newStock": 24,
+      "adjustment": -1,
+      "reason": "Customer Order Placement: VEL-TEST-1792280846046",
+      "timestamp": "2026-10-17T23:47:26.072Z",
+      "adminEmail": "system@velore.com"
+    },
+    {
+      "id": "inv-init-01",
+      "productId": "velore-noir-01",
+      "productName": "VELORÉ NOIR",
+      "previousStock": 0,
+      "newStock": 35,
+      "adjustment": 35,
+      "reason": "Initial Production Bottling Maturation (Atelier Grasse)",
+      "timestamp": "2026-09-01T12:00:00Z",
+      "adminEmail": "atelier@velore.com"
+    }
+  ],
+  "settings": {
+    "storeName": "VELORÉ",
+    "brandTagline": "Luxury Fragrances. Timeless Identity.",
+    "currency": "USD",
+    "supportEmail": "concierge@velore.com",
+    "freeShippingThreshold": 150,
+    "standardShippingFee": 0,
+    "expressShippingFee": 25,
+    "lowStockThreshold": 10,
+    "announcementActive": true,
+    "announcementText": "Complimentary White-Glove Courier & Discovery Vials on All Orders Above $150",
+    "lastUpdated": "2026-10-17T23:30:30.748Z",
+    "updatedBy": "System Setup"
+  },
+  "customers": [
+    {
+      "id": "cust-1792315543772-rbk9",
+      "name": "Victoria Sinclair",
+      "email": "e2e.tester.1792315542447@velore-test.com",
+      "phone": "+1 555-0199",
+      "registrationDate": "2026-10-18T09:25:43.772Z",
+      "ordersCount": 1,
+      "totalSpend": 334.8,
+      "tier": "Silver Member"
+    },
+    {
+      "id": "cust-1792309435599-rc80",
+      "name": "Victoria Sinclair",
+      "email": "e2e.tester.1792309434523@velore-test.com",
+      "phone": "+1 555-0199",
+      "registrationDate": "2026-10-18T07:43:55.599Z",
+      "ordersCount": 1,
+      "totalSpend": 334.8,
+      "tier": "Silver Member"
+    },
+    {
+      "id": "cust-1792308056910-zik1",
+      "name": "Victoria Sinclair",
+      "email": "e2e.tester.1792308055641@velore-test.com",
+      "phone": "+1 555-0199",
+      "registrationDate": "2026-10-18T07:20:56.910Z",
+      "ordersCount": 1,
+      "totalSpend": 334.8,
+      "tier": "Silver Member"
+    },
+    {
+      "id": "cust-1792281091515-j2hb",
+      "name": "Pure Guest",
+      "email": "guest_1792281090712@velore.com",
+      "phone": "555",
+      "registrationDate": "2026-10-17T23:51:31.515Z",
+      "ordersCount": 1,
+      "totalSpend": 334.8,
+      "tier": "Silver Member"
+    },
+    {
+      "id": "cust-1792281091462-v43e",
+      "name": "Idemp Test",
+      "email": "idemp_1792281090712@velore.com",
+      "phone": "555",
+      "registrationDate": "2026-10-17T23:51:31.458Z",
+      "ordersCount": 1,
+      "totalSpend": 280.8,
+      "tier": "Silver Member"
+    },
+    {
+      "id": "cust-1792281091431-wam8",
+      "name": "User Concurrent",
+      "email": "concur1_1792281090712@velore.com",
+      "phone": "555",
+      "registrationDate": "2026-10-17T23:51:31.427Z",
+      "ordersCount": 1,
+      "totalSpend": 324,
+      "tier": "Silver Member"
+    },
+    {
+      "id": "cust-1792281091383-cjwf",
+      "name": "Tester Discount",
+      "email": "discounttest_1792281090712@velore.com",
+      "phone": "555",
+      "registrationDate": "2026-10-17T23:51:31.380Z",
+      "ordersCount": 1,
+      "totalSpend": 301.32,
+      "tier": "Silver Member"
+    },
+    {
+      "id": "cust-1792281091367-xv04",
+      "name": "Honest Client",
+      "email": "honest_1792281090712@velore.com",
+      "phone": "555",
+      "registrationDate": "2026-10-17T23:51:31.367Z",
+      "ordersCount": 1,
+      "totalSpend": 334.8,
+      "tier": "Silver Member"
+    },
+    {
+      "id": "cust-1792281091300-r9ak",
+      "name": "Test One",
+      "email": "tester_1792281090712_1@velore.com",
+      "phone": "123",
+      "registrationDate": "2026-10-17T23:51:31.295Z",
+      "ordersCount": 1,
+      "totalSpend": 307.8,
+      "tier": "Silver Member"
+    },
+    {
+      "id": "cust-1792281040215-clxl",
+      "name": "T D",
+      "email": "unique15@velore.com",
+      "phone": "555",
+      "registrationDate": "2026-10-17T23:50:40.209Z",
+      "ordersCount": 1,
+      "totalSpend": 301.32,
+      "tier": "Silver Member"
+    },
+    {
+      "id": "cust-1792280846846-8yk5",
+      "name": "Pure Guest",
+      "email": "guest@velore.com",
+      "phone": "555",
+      "registrationDate": "2026-10-17T23:47:26.846Z",
+      "ordersCount": 2,
+      "totalSpend": 669.6,
+      "tier": "Silver Member"
+    },
+    {
+      "id": "cust-1792280846685-cudv",
+      "name": "Idemp Test",
+      "email": "idemp@velore.com",
+      "phone": "555",
+      "registrationDate": "2026-10-17T23:47:26.681Z",
+      "ordersCount": 1,
+      "totalSpend": 280.8,
+      "tier": "Silver Member"
+    },
+    {
+      "id": "cust-1792280846625-cp56",
+      "name": "User Concurrent",
+      "email": "concur1@velore.com",
+      "phone": "555",
+      "registrationDate": "2026-10-17T23:47:26.608Z",
+      "ordersCount": 2,
+      "totalSpend": 648,
+      "tier": "Silver Member"
+    },
+    {
+      "id": "cust-1792280846434-wf6g",
+      "name": "Tester Discount",
+      "email": "discounttest@velore.com",
+      "phone": "555",
+      "registrationDate": "2026-10-17T23:47:26.430Z",
+      "ordersCount": 1,
+      "totalSpend": 301.32,
+      "tier": "Silver Member"
+    },
+    {
+      "id": "cust-1792280846391-re9k",
+      "name": "Honest Client",
+      "email": "honest@velore.com",
+      "phone": "555",
+      "registrationDate": "2026-10-17T23:47:26.391Z",
+      "ordersCount": 2,
+      "totalSpend": 669.6,
+      "tier": "Silver Member"
+    },
+    {
+      "id": "cust-1792280846088-hc0s",
+      "name": "Test One",
+      "email": "tester1@velore.com",
+      "phone": "123",
+      "registrationDate": "2026-10-17T23:47:26.072Z",
+      "ordersCount": 1,
+      "totalSpend": 307.8,
+      "tier": "Silver Member"
+    },
+    {
+      "id": "cust-01",
+      "name": "Eleanor Vance",
+      "email": "eleanor.vance@velore.com",
+      "phone": "+1 (555) 234-8901",
+      "registrationDate": "2024-09-01T00:00:00Z",
+      "ordersCount": 2,
+      "totalSpend": 1063.8,
+      "tier": "Grand Connoisseur Reserve"
+    },
+    {
+      "id": "cust-02",
+      "name": "Julian Sterling",
+      "email": "j.sterling@mayfair.co.uk",
+      "phone": "+44 20 7946 0912",
+      "registrationDate": "2025-01-14T00:00:00Z",
+      "ordersCount": 1,
+      "totalSpend": 380,
+      "tier": "Private Collector"
+    }
+  ],
+  "coupons": [
+    {
+      "code": "RACE0712",
+      "name": "Concurrency Test Coupon",
+      "discountType": "fixed",
+      "discountValue": 10,
+      "currency": "USD",
+      "minSubtotal": 100,
+      "startDate": "2026-01-01T00:00:00Z",
+      "expiryDate": "2027-12-31T23:59:59Z",
+      "usageLimit": 1,
+      "perCustomerLimit": 1,
+      "eligibleProductIds": [],
+      "eligibleCollectionIds": [],
+      "excludedProductIds": [],
+      "canCombineWithOtherCoupons": false,
+      "status": "expired",
+      "id": "cpn-1792281091410-iaxe",
+      "redemptionCount": 1,
+      "createdAt": "2026-10-17T23:51:31.410Z",
+      "updatedAt": "2026-10-17T23:51:31.410Z"
+    },
+    {
+      "code": "ONE0712",
+      "name": "Single Use Promotion",
+      "discountType": "fixed",
+      "discountValue": 25,
+      "currency": "USD",
+      "minSubtotal": 100,
+      "startDate": "2026-01-01T00:00:00Z",
+      "expiryDate": "2027-12-31T23:59:59Z",
+      "usageLimit": 1,
+      "perCustomerLimit": 1,
+      "eligibleProductIds": [],
+      "eligibleCollectionIds": [],
+      "excludedProductIds": [],
+      "canCombineWithOtherCoupons": false,
+      "status": "expired",
+      "id": "cpn-1792281091280-hd7g",
+      "redemptionCount": 1,
+      "createdAt": "2026-10-17T23:51:31.280Z",
+      "updatedAt": "2026-10-17T23:51:31.280Z"
+    },
+    {
+      "code": "FUT0712",
+      "name": "Future Solstice Promo",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "currency": "USD",
+      "minSubtotal": 100,
+      "startDate": "2028-01-01T00:00:00Z",
+      "expiryDate": "2028-12-31T23:59:59Z",
+      "usageLimit": 100,
+      "perCustomerLimit": 1,
+      "eligibleProductIds": [],
+      "eligibleCollectionIds": [],
+      "excludedProductIds": [],
+      "canCombineWithOtherCoupons": false,
+      "status": "scheduled",
+      "id": "cpn-1792281091218-lcje",
+      "redemptionCount": 0,
+      "createdAt": "2026-10-17T23:51:31.218Z",
+      "updatedAt": "2026-10-17T23:51:31.218Z"
+    },
+    {
+      "code": "MIN0712",
+      "name": "High Min Spend Promo",
+      "discountType": "percentage",
+      "discountValue": 15,
+      "currency": "USD",
+      "minSubtotal": 500,
+      "startDate": "2026-01-01T00:00:00Z",
+      "expiryDate": "2027-12-31T23:59:59Z",
+      "usageLimit": 100,
+      "perCustomerLimit": 1,
+      "eligibleProductIds": [],
+      "eligibleCollectionIds": [],
+      "excludedProductIds": [],
+      "canCombineWithOtherCoupons": false,
+      "status": "active",
+      "id": "cpn-1792281091018-jaod",
+      "redemptionCount": 0,
+      "createdAt": "2026-10-17T23:51:31.018Z",
+      "updatedAt": "2026-10-17T23:51:31.018Z"
+    },
+    {
+      "code": "RACE3326",
+      "name": "Concurrency Test Coupon",
+      "discountType": "fixed",
+      "discountValue": 10,
+      "currency": "USD",
+      "minSubtotal": 100,
+      "startDate": "2026-01-01T00:00:00Z",
+      "expiryDate": "2027-12-31T23:59:59Z",
+      "usageLimit": 1,
+      "perCustomerLimit": 1,
+      "eligibleProductIds": [],
+      "eligibleCollectionIds": [],
+      "excludedProductIds": [],
+      "canCombineWithOtherCoupons": false,
+      "status": "expired",
+      "id": "cpn-1792281023335-0yjp",
+      "redemptionCount": 1,
+      "createdAt": "2026-10-17T23:50:23.335Z",
+      "updatedAt": "2026-10-17T23:50:23.335Z"
+    },
+    {
+      "code": "RACE6531",
+      "name": "Concurrency Test Coupon",
+      "discountType": "fixed",
+      "discountValue": 10,
+      "currency": "USD",
+      "minSubtotal": 100,
+      "startDate": "2026-01-01T00:00:00Z",
+      "expiryDate": "2027-12-31T23:59:59Z",
+      "usageLimit": 1,
+      "perCustomerLimit": 1,
+      "eligibleProductIds": [],
+      "eligibleCollectionIds": [],
+      "excludedProductIds": [],
+      "canCombineWithOtherCoupons": false,
+      "status": "expired",
+      "id": "cpn-1792280846546-xkej",
+      "redemptionCount": 1,
+      "createdAt": "2026-10-17T23:47:26.546Z",
+      "updatedAt": "2026-10-17T23:47:26.546Z"
+    },
+    {
+      "code": "LIMITONE",
+      "name": "Single Use Promotion",
+      "discountType": "fixed",
+      "discountValue": 25,
+      "currency": "USD",
+      "minSubtotal": 100,
+      "startDate": "2026-01-01T00:00:00Z",
+      "expiryDate": "2027-12-31T23:59:59Z",
+      "usageLimit": 1,
+      "perCustomerLimit": 1,
+      "eligibleProductIds": [],
+      "eligibleCollectionIds": [],
+      "excludedProductIds": [],
+      "canCombineWithOtherCoupons": false,
+      "status": "expired",
+      "id": "cpn-1792280846028-x01m",
+      "redemptionCount": 1,
+      "createdAt": "2026-10-17T23:47:26.028Z",
+      "updatedAt": "2026-10-17T23:47:26.028Z"
+    },
+    {
+      "code": "FUTURE2028",
+      "name": "Future Solstice Promo",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "currency": "USD",
+      "minSubtotal": 100,
+      "startDate": "2028-01-01T00:00:00Z",
+      "expiryDate": "2028-12-31T23:59:59Z",
+      "usageLimit": 100,
+      "perCustomerLimit": 1,
+      "eligibleProductIds": [],
+      "eligibleCollectionIds": [],
+      "excludedProductIds": [],
+      "canCombineWithOtherCoupons": false,
+      "status": "scheduled",
+      "id": "cpn-1792280845930-m3v3",
+      "redemptionCount": 0,
+      "createdAt": "2026-10-17T23:47:25.930Z",
+      "updatedAt": "2026-10-17T23:47:25.930Z"
+    },
+    {
+      "code": "HIGHMIN500",
+      "name": "High Min Spend Promo",
+      "discountType": "percentage",
+      "discountValue": 15,
+      "currency": "USD",
+      "minSubtotal": 500,
+      "startDate": "2026-01-01T00:00:00Z",
+      "expiryDate": "2027-12-31T23:59:59Z",
+      "usageLimit": 100,
+      "perCustomerLimit": 1,
+      "eligibleProductIds": [],
+      "eligibleCollectionIds": [],
+      "excludedProductIds": [],
+      "canCombineWithOtherCoupons": false,
+      "status": "active",
+      "id": "cpn-1792280845604-nb54",
+      "redemptionCount": 0,
+      "createdAt": "2026-10-17T23:47:25.604Z",
+      "updatedAt": "2026-10-17T23:47:25.604Z"
+    },
+    {
+      "id": "cpn-velore10",
+      "code": "VELORE10",
+      "name": "Artisan Welcome - 10% Privilege",
+      "description": "Enjoy 10% complimentary savings across our entire perfume catalog on orders of $150 or more.",
+      "discountType": "percentage",
+      "discountValue": 10,
+      "currency": "USD",
+      "minSubtotal": 150,
+      "startDate": "2026-01-01T00:00:00Z",
+      "expiryDate": "2027-12-31T23:59:59Z",
+      "usageLimit": 500,
+      "perCustomerLimit": 1,
+      "redemptionCount": 17,
+      "canCombineWithOtherCoupons": false,
+      "status": "active",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "cpn-welcome50",
+      "code": "WELCOME50",
+      "name": "Connoisseur Welcome - $50 Off",
+      "description": "Complimentary $50 atelier deduction on prestige acquisitions over $250.",
+      "discountType": "fixed",
+      "discountValue": 50,
+      "currency": "USD",
+      "minSubtotal": 250,
+      "startDate": "2026-01-01T00:00:00Z",
+      "expiryDate": "2027-12-31T23:59:59Z",
+      "usageLimit": 250,
+      "perCustomerLimit": 1,
+      "redemptionCount": 10,
+      "canCombineWithOtherCoupons": false,
+      "status": "active",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "cpn-elite20",
+      "code": "ELITE20",
+      "name": "Private Reserve Privilege - 20% Off",
+      "description": "Exclusive 20% savings on Private Reserve masterpieces and flagship extraits (Veloré Noir & L'Élite), capped at $100.",
+      "discountType": "percentage",
+      "discountValue": 20,
+      "currency": "USD",
+      "minSubtotal": 200,
+      "maxDiscount": 100,
+      "eligibleCollectionIds": [
+        "private-reserve",
+        "best-sellers"
+      ],
+      "eligibleProductIds": [
+        "velore-noir-01",
+        "velore-elite-02"
+      ],
+      "startDate": "2026-01-01T00:00:00Z",
+      "expiryDate": "2027-12-31T23:59:59Z",
+      "usageLimit": 100,
+      "perCustomerLimit": 1,
+      "redemptionCount": 5,
+      "canCombineWithOtherCoupons": false,
+      "status": "active",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "cpn-vipnoir",
+      "code": "VIPNOIR",
+      "name": "Signature Noir Dedicated Atelier - $75 Off",
+      "description": "Dedicated $75 deduction on Veloré Noir extrait flacon.",
+      "discountType": "fixed",
+      "discountValue": 75,
+      "currency": "USD",
+      "minSubtotal": 250,
+      "eligibleProductIds": [
+        "velore-noir-01"
+      ],
+      "startDate": "2026-01-01T00:00:00Z",
+      "expiryDate": "2027-12-31T23:59:59Z",
+      "usageLimit": 50,
+      "perCustomerLimit": 1,
+      "redemptionCount": 3,
+      "canCombineWithOtherCoupons": false,
+      "status": "active",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "cpn-expired15",
+      "code": "EXPIRED15",
+      "name": "Autumn Equinox Salon - 15% Off (Expired)",
+      "description": "Seasonal vintage promotion concluded on September 30, 2026.",
+      "discountType": "percentage",
+      "discountValue": 15,
+      "currency": "USD",
+      "minSubtotal": 100,
+      "startDate": "2026-08-01T00:00:00Z",
+      "expiryDate": "2026-09-30T23:59:59Z",
+      "usageLimit": 50,
+      "perCustomerLimit": 1,
+      "redemptionCount": 50,
+      "canCombineWithOtherCoupons": false,
+      "status": "expired",
+      "createdAt": "2026-08-01T00:00:00Z",
+      "updatedAt": "2026-10-01T00:00:00Z"
+    },
+    {
+      "id": "cpn-inactive25",
+      "code": "INACTIVE25",
+      "name": "Winter Solstice Preview (Draft/Inactive)",
+      "description": "Pre-launch promotion awaiting executive authorization.",
+      "discountType": "percentage",
+      "discountValue": 25,
+      "currency": "USD",
+      "minSubtotal": 300,
+      "startDate": "2026-12-01T00:00:00Z",
+      "expiryDate": "2026-12-31T23:59:59Z",
+      "usageLimit": 200,
+      "perCustomerLimit": 1,
+      "redemptionCount": 0,
+      "canCombineWithOtherCoupons": false,
+      "status": "inactive",
+      "createdAt": "2026-10-15T00:00:00Z",
+      "updatedAt": "2026-10-15T00:00:00Z"
+    }
+  ],
+  "couponRedemptions": [
+    {
+      "id": "red-1792281091459-inhk",
+      "couponId": "cpn-welcome50",
+      "couponCode": "WELCOME50",
+      "orderId": "VEL-IDEMP-1792281090712",
+      "customerEmail": "idemp_1792281090712@velore.com",
+      "discountAmount": 50,
+      "currency": "USD",
+      "timestamp": "2026-10-17T23:51:31.459Z"
+    },
+    {
+      "id": "red-1792281091427-ft9b",
+      "couponId": "cpn-1792281091410-iaxe",
+      "couponCode": "RACE0712",
+      "orderId": "VEL-C1-1792281090712",
+      "customerEmail": "concur1_1792281090712@velore.com",
+      "discountAmount": 10,
+      "currency": "USD",
+      "timestamp": "2026-10-17T23:51:31.427Z"
+    },
+    {
+      "id": "red-1792281091380-t2zy",
+      "couponId": "cpn-velore10",
+      "couponCode": "VELORE10",
+      "orderId": "VEL-DISCOUNT-TAMPER-1792281090712",
+      "customerEmail": "discounttest_1792281090712@velore.com",
+      "discountAmount": 31,
+      "currency": "USD",
+      "timestamp": "2026-10-17T23:51:31.380Z"
+    },
+    {
+      "id": "red-1792281091295-vnjs",
+      "couponId": "cpn-1792281091280-hd7g",
+      "couponCode": "ONE0712",
+      "orderId": "VEL-TEST-1792281090712",
+      "customerEmail": "tester_1792281090712_1@velore.com",
+      "discountAmount": 25,
+      "currency": "USD",
+      "timestamp": "2026-10-17T23:51:31.295Z"
+    },
+    {
+      "id": "red-1792281040209-68hn",
+      "couponId": "cpn-velore10",
+      "couponCode": "VELORE10",
+      "orderId": "VEL-DEBUG-15",
+      "customerEmail": "unique15@velore.com",
+      "discountAmount": 31,
+      "currency": "USD",
+      "timestamp": "2026-10-17T23:50:40.209Z"
+    },
+    {
+      "id": "red-1792281023366-jnb7",
+      "couponId": "cpn-1792281023335-0yjp",
+      "couponCode": "RACE3326",
+      "orderId": "VEL-C1-1792281023345",
+      "customerEmail": "concur1@velore.com",
+      "discountAmount": 10,
+      "currency": "USD",
+      "timestamp": "2026-10-17T23:50:23.366Z"
+    },
+    {
+      "id": "red-1792280846681-uv43",
+      "couponId": "cpn-welcome50",
+      "couponCode": "WELCOME50",
+      "orderId": "VEL-IDEMP-1792280846664",
+      "customerEmail": "idemp@velore.com",
+      "discountAmount": 50,
+      "currency": "USD",
+      "timestamp": "2026-10-17T23:47:26.681Z"
+    },
+    {
+      "id": "red-1792280846608-ktud",
+      "couponId": "cpn-1792280846546-xkej",
+      "couponCode": "RACE6531",
+      "orderId": "VEL-C1-1792280846569",
+      "customerEmail": "concur1@velore.com",
+      "discountAmount": 10,
+      "currency": "USD",
+      "timestamp": "2026-10-17T23:47:26.608Z"
+    },
+    {
+      "id": "red-1792280846430-uy0i",
+      "couponId": "cpn-velore10",
+      "couponCode": "VELORE10",
+      "orderId": "VEL-DISCOUNT-TAMPER-1792280846401",
+      "customerEmail": "discounttest@velore.com",
+      "discountAmount": 31,
+      "currency": "USD",
+      "timestamp": "2026-10-17T23:47:26.430Z"
+    },
+    {
+      "id": "red-1792280846072-ck3a",
+      "couponId": "cpn-1792280846028-x01m",
+      "couponCode": "LIMITONE",
+      "orderId": "VEL-TEST-1792280846046",
+      "customerEmail": "tester1@velore.com",
+      "discountAmount": 25,
+      "currency": "USD",
+      "timestamp": "2026-10-17T23:47:26.073Z"
+    },
+    {
+      "id": "red-001",
+      "couponId": "cpn-velore10",
+      "couponCode": "VELORE10",
+      "orderId": "VEL-892410",
+      "customerEmail": "client@velore.com",
+      "discountAmount": 45.6,
+      "currency": "USD",
+      "timestamp": "2026-09-15T14:30:00Z"
+    },
+    {
+      "id": "red-002",
+      "couponId": "cpn-welcome50",
+      "couponCode": "WELCOME50",
+      "orderId": "VEL-892412",
+      "customerEmail": "collector@velore.com",
+      "discountAmount": 50,
+      "currency": "USD",
+      "timestamp": "2026-09-02T16:15:00Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1792282138044-c6qk",
+      "productId": "velore-noir-01",
+      "productSlug": "noir",
+      "productName": "NOIR",
+      "customerEmail": "patron.1792282137733@example-guest.com",
+      "customerName": "Discerning Visitor",
+      "rating": 5,
+      "title": "Intriguing Olfactory Depth",
+      "body": "Sampled this fragrance at a private salon. Exceptional sillage with smoky vetiver nuances.",
+      "verifiedPurchase": false,
+      "helpfulVotes": 1,
+      "voters": [
+        "::ffff:127.0.0.1"
+      ],
+      "reports": [
+        {
+          "id": "rep-1792282138157-yqx7",
+          "reason": "suspected_inaccuracy",
+          "reporterIdentifier": "::ffff:127.0.0.1",
+          "reportedAt": "2026-10-18T00:08:58.157Z"
+        }
+      ],
+      "status": "pending",
+      "createdAt": "2026-10-18T00:08:58.044Z",
+      "updatedAt": "2026-10-18T00:08:58.044Z"
+    },
+    {
+      "id": "rev-001",
+      "productId": "velore-noir-01",
+      "productSlug": "noir",
+      "productName": "VELORÉ NOIR",
+      "customerEmail": "client@velore.com",
+      "customerName": "Eleanor V.",
+      "rating": 5,
+      "title": "An undeniable masterpiece of olfactory depth",
+      "body": "The opening of black amber and rare saffron immediately captivates. On the skin, the dry-down evolves into a smooth, velvety dark oud and leather that lingers for well over fourteen hours. Unquestionably my signature evening flacon.",
+      "verifiedPurchase": true,
+      "helpfulVotes": 12,
+      "voters": [],
+      "reports": [],
+      "status": "published",
+      "createdAt": "2026-09-20T11:24:00Z",
+      "publishedAt": "2026-09-20T12:00:00Z",
+      "updatedAt": "2026-09-20T12:00:00Z"
+    },
+    {
+      "id": "rev-002",
+      "productId": "velore-noir-01",
+      "productSlug": "noir",
+      "productName": "VELORÉ NOIR",
+      "customerEmail": "julian.c@haute-parfum.com",
+      "customerName": "Julian C.",
+      "rating": 5,
+      "title": "Opulent, mysterious and flawlessly blended",
+      "body": "Veloré Noir represents what contemporary high perfumery should be. The sillage is dignified without being aggressive, leaving an enchanting trail of smoked incense and bourbon vanilla. The flacon presentation is stunning.",
+      "verifiedPurchase": true,
+      "helpfulVotes": 8,
+      "voters": [],
+      "reports": [],
+      "status": "published",
+      "createdAt": "2026-09-28T16:40:00Z",
+      "publishedAt": "2026-09-28T17:00:00Z",
+      "updatedAt": "2026-09-28T17:00:00Z"
+    },
+    {
+      "id": "rev-003",
+      "productId": "velore-lumiere-03",
+      "productSlug": "lumiere",
+      "productName": "LUMIÈRE D'OR",
+      "customerEmail": "client@velore.com",
+      "customerName": "Eleanor V.",
+      "rating": 5,
+      "title": "Golden Mediterranean sunlight captured in crystal",
+      "body": "The neroli and Calabrian bergamot radiate with pure elegance. It transitions seamlessly into creamy solar jasmine and warm golden cedar. Perfect for daytime salons and warm European evenings.",
+      "verifiedPurchase": true,
+      "helpfulVotes": 6,
+      "voters": [],
+      "reports": [],
+      "status": "published",
+      "createdAt": "2026-10-01T09:15:00Z",
+      "publishedAt": "2026-10-01T09:30:00Z",
+      "updatedAt": "2026-10-01T09:30:00Z"
+    },
+    {
+      "id": "rev-004",
+      "productId": "velore-oud-04",
+      "productSlug": "oud-imperial",
+      "productName": "OUD IMPERIAL",
+      "customerEmail": "collector@velore.com",
+      "customerName": "Lord Sterling",
+      "rating": 5,
+      "title": "Precious royal Cambodian oud of the highest calibre",
+      "body": "Having collected rare vintage ouds for over two decades, I was astonished by the purity and resinous complexity of this extraction. Rich, smoky, and devoid of any medicinal harshness. Worth every sovereign.",
+      "verifiedPurchase": true,
+      "helpfulVotes": 15,
+      "voters": [],
+      "reports": [],
+      "status": "published",
+      "createdAt": "2026-10-05T14:20:00Z",
+      "publishedAt": "2026-10-05T14:45:00Z",
+      "updatedAt": "2026-10-05T14:45:00Z"
+    },
+    {
+      "id": "rev-005",
+      "productId": "velore-elite-02",
+      "productSlug": "elite",
+      "productName": "L'ÉLITE",
+      "customerEmail": "marcus.k@velore.com",
+      "customerName": "Marcus K.",
+      "rating": 4,
+      "title": "Remarkable longevity and refined iris nuance",
+      "body": "A very regal and powdery iris accord wrapped in blonde woods. Takes about twenty minutes to truly settle on the pulse points, after which the cedar and white musk project effortlessly.",
+      "verifiedPurchase": false,
+      "helpfulVotes": 2,
+      "voters": [],
+      "reports": [],
+      "status": "pending",
+      "createdAt": "2026-10-16T18:00:00Z",
+      "updatedAt": "2026-10-16T18:00:00Z"
+    }
+  ]
+}
